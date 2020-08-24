@@ -1,0 +1,48 @@
+,Modele,Conso(kWh/100),Bat.kWh,Autonomie(Km),Puiss.Charge max(kW)
+0,Audi E-tron 55 Quattro (2550 kg),28,95,340,150
+1,BMW I3 60 Ah (1270 kg),15.5,22.2,140,50
+2,BMW I3 94 Ah (1340 kg),15.5,33.2,210,50
+3,BMW I3s (1340 kg),16,33.3,210,50
+4,Citroën Berlingo (1604 kg),19,22.5,120,50
+5,Citroën C-zéro (1065 kg),13,14.5,110,50
+6,Hyundai Ioniq (1495 kg),16,28,180,100
+7,Hyundai Kona  (1600 kg),17,39,230,77
+8,Hyundai Kona  (1760 kg),18,64,360,77
+9,Jaguar I-Pace (2150 kg),24,90,380,100
+10,Kia E-Niro (1740 kg),18.5,64,350,77
+11,Kia E-Niro (1600 kg),17.5,39,220,77
+12,Kia E-Soul (1535 kg),17,39,230,77
+13,Kia E-Soul (1680 kg),18,64,360,77
+14,Kia Soul EV (1490 kg),18,27,150,80
+15,Kia Soul EV (1490 kg),18,30,170,80
+16,Mercedes EQC 400 (2425 kg),27,80,300,110
+17,Nissan Leaf I 24kWh (1525 kg),19.5,24,120,30
+18,Nissan Leaf I 30kWh (1525 kg),19.5,30,150,30
+19,Nissan Leaf II (1535 kg),20,40,200,50
+20,Opel Ampera-e (1691 kg),16.5,60,360,50
+21,Peugeot IOn (1065 kg),13,14.5,110,50
+22,Peugeot Partner (1604 kg),19,22.5,120,50
+23,Renault Twizy (470 kg),5.5,6.1,110,7
+24,Renault Zoe Q210 (1470 kg),14.5,22,150,43
+25,Renault Zoe Q90 (1470 kg),14.5,41,280,43
+26,Renault Zoe R110 (1470 kg),14.5,41,280,43
+27,Renault Zoe R240 (1470 kg),14.5,22,150,22
+28,Renault Zoe R75 (1470 kg),14,41,290,22
+29,Renault Zoe R90 (1470 kg),14.5,41,280,22
+30,Smart Fortwo ED (1100 kg),16,17.6,110,22
+31,Tesla Model 3 (1730 kg),16.5,57,350,250
+32,Tesla Model 3 (1850 kg),17,77,450,250
+33,Tesla Model 3 (1850 kg),17,77,450,250
+34,Tesla Model S 100D (2100 kg),21,100,480,200
+35,Tesla Model S 75D (2110 kg),21,75,360,200
+36,Tesla Model S Long Range (2100 kg),21,100,480,250
+37,Tesla Model S P100D (2100 kg),21,100,480,200
+38,Tesla Model S Performance (2100 kg),21,100,480,250
+39,Tesla Model X 100D (2450 kg),23.5,100,430,250
+40,Tesla Model X 75D (2300 kg),23.5,75,320,250
+41,Tesla Model X Long Range (2450 kg),23.5,100,430,250
+42,Tesla Model X P100D (2450 kg),23.5,100,430,250
+43,Tesla Model X Performance (2450 kg),23.5,100,430,250
+44,Volkswagen E-Golf (1510 kg),17,24,140,50
+45,Volkswagen E-Golf (1540 kg),17,36,210,50
+46,Volkswagen E-Up! (1154 kg),14,18.7,130,35
