@@ -2,12 +2,12 @@
 ### Projet du parcours de formation Data Analyst OpenClassrooms réalisé en partenariat avec l’ENSAE-ENSAI.
 L'évolution du parc automobile français depuis 2010 prévisions sur les prochaines années. Un tour complet en trois volets: véhicules, stations de recharge, et distribution d'électricité.
 
-![Illustration d'un station de recharge](p8_graphic/irve_illustration.png)
+![Illustration d'un station de recharge](p8_img/irve_illustration.png)
 
 ## Tableaux de bord
 Rendez-vous sur [Tableau Public](https://public.tableau.com/profile/nalron#!/vizhome/ElectricCarsFrance2040/Vuedensemble) pour l'accès aux tableaux de bord intéractifs.
 
-![Public Tableau](p8_graphic/view_tableau.png)
+![Public Tableau](p8_img/view_tableau.png)
 
 ## Préambule
 Pour ce projet, les données ont été manipulées en Python sur support Jupyter Notebook avec visualisation via Tableau Software.
