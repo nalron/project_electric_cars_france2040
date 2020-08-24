@@ -1,0 +1,1738 @@
+,Code Région,Région,Code Département,Nom Département,Code Type Prod,Type Production,ID_type_inj,Type Injection,Tranche,Fin De Trimestre,Nombre Installations,Puissance MW
+0,75,Nouvelle Aquitaine,33,Gironde,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],143.0,11.16039
+1,11,Île-de-France,75,Paris,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],19.0,1.31682
+2,32,Hauts-de-France,62,Pas-de-Calais,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],7.0,0.504
+3,28,Normandie,76,Seine-Maritime,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],143.0,0.48841999999999997
+4,44,Grand-Est,52,Haute-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1032.0,4.43685
+5,11,Île-de-France,91,Essonne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,7.55
+6,76,Occitanie,31,Haute-Garonne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],2270.0,8.03755
+7,28,Normandie,27,Eure,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2639.0,11.56312
+8,53,Bretagne,35,Ille-et-Vilaine,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],434.0,1.71745
+9,27,Bourgogne-Franche-Comté,39,Jura,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],44.0,0.12255
+10,11,Île-de-France,92,Hauts-de-Seine,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,1.7531
+11,11,Île-de-France,92,Hauts-de-Seine,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.1155
+12,75,Nouvelle Aquitaine,23,Creuse,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],455.0,39.7995
+13,53,Bretagne,29,Finistère,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],55.0,8.783
+14,11,Île-de-France,93,Seine-Saint-Denis,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],5.0,0.8208200000000001
+15,75,Nouvelle Aquitaine,87,Haute-Vienne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2266.0,9.94232
+16,44,Grand-Est,54,Meurthe-et-Moselle,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3547.0,12.9635
+17,28,Normandie,76,Seine-Maritime,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.36
+18,52,Pays de la Loire,44,Loire-Atlantique,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,23.0,41.45399999999999
+19,11,Île-de-France,95,Val-d'Oise,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.08
+20,28,Normandie,27,Eure,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],581.0,2.21106
+21,75,Nouvelle Aquitaine,17,Charente-Maritime,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1026.0,3.8393300000000004
+22,24,Centre-Val de Loire,28,Eure-et-Loir,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],19.0,3.985
+23,24,Centre-Val de Loire,36,Indre,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],75.0,13.5884
+24,32,Hauts-de-France,59,Nord,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],71.0,5.1883300000000006
+25,24,Centre-Val de Loire,36,Indre,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],60.0,0.18764
+26,24,Centre-Val de Loire,37,Indre-et-Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.099
+27,32,Hauts-de-France,60,Oise,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],70.0,0.18070999999999998
+28,24,Centre-Val de Loire,37,Indre-et-Loire,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],149.0,0.33393
+29,24,Centre-Val de Loire,37,Indre-et-Loire,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],2.0,0.37
+30,44,Grand-Est,55,Meuse,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],29.0,2.50284
+31,24,Centre-Val de Loire,41,Loir-et-Cher,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.042
+32,53,Bretagne,22,Côtes-d'Armor,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],28.0,4.4326
+33,27,Bourgogne-Franche-Comté,70,Haute-Saône,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],17.0,1.3843
+34,27,Bourgogne-Franche-Comté,58,Nièvre,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],113.0,9.7306
+35,75,Nouvelle Aquitaine,19,Corrèze,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],179.0,32.20091
+36,27,Bourgogne-Franche-Comté,25,Doubs,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1082.0,4.4212
+37,44,Grand-Est,57,Moselle,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],175.0,0.46266999999999997
+38,27,Bourgogne-Franche-Comté,21,Côte-d'Or,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],48.0,8.22205
+39,75,Nouvelle Aquitaine,79,Deux-Sèvres,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],13.0,1.0190000000000001
+40,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.4
+41,27,Bourgogne-Franche-Comté,39,Jura,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],556.0,2.13381
+42,27,Bourgogne-Franche-Comté,58,Nièvre,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,32.0
+43,32,Hauts-de-France,80,Somme,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],23.0,1.9478
+44,27,Bourgogne-Franche-Comté,70,Haute-Saône,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1768.0,6.56042
+45,32,Hauts-de-France,59,Nord,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],2151.0,7.17555
+46,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],30.0,5.417999999999999
+47,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,6.0,22.000999999999998
+48,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.0938
+49,52,Pays de la Loire,44,Loire-Atlantique,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.2628
+50,84,Auvergne-Rhône-Alpes,26,Drôme,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],274.0,23.010720000000003
+51,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],168.0,0.6414
+52,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],24.0,0.057999999999999996
+53,84,Auvergne-Rhône-Alpes,7,Ardèche,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],655.0,2.6642099999999997
+54,28,Normandie,14,Calvados,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],66.0,5.369759999999999
+55,84,Auvergne-Rhône-Alpes,7,Ardèche,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],3.0,0.271
+56,28,Normandie,50,Manche,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],88.0,7.35965
+57,28,Normandie,61,Orne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.19484
+58,28,Normandie,61,Orne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.1
+59,28,Normandie,61,Orne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.2499
+60,76,Occitanie,34,Hérault,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],9214.0,37.55396
+61,32,Hauts-de-France,59,Nord,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],7448.0,26.296940000000003
+62,32,Hauts-de-France,59,Nord,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],2.0,0.33
+63,32,Hauts-de-France,60,Oise,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.08
+64,52,Pays de la Loire,85,Vendée,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1163.0,4.554530000000001
+65,75,Nouvelle Aquitaine,17,Charente-Maritime,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],136.0,25.29506
+66,75,Nouvelle Aquitaine,33,Gironde,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,77.0,464.30199999999996
+67,53,Bretagne,35,Ille-et-Vilaine,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],5.0,0.39654
+68,44,Grand-Est,51,Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2449.0,13.02897
+69,44,Grand-Est,51,Marne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],471.0,1.6340000000000001
+70,76,Occitanie,11,Aude,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.075
+71,44,Grand-Est,54,Meurthe-et-Moselle,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,14.6
+72,44,Grand-Est,67,Bas-Rhin,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],258.0,0.9279
+73,44,Grand-Est,67,Bas-Rhin,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1069.0,5.74209
+74,84,Auvergne-Rhône-Alpes,43,Haute-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,7.0,18.811
+75,44,Grand-Est,68,Haut-Rhin,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],161.0,13.114820000000002
+76,44,Grand-Est,68,Haut-Rhin,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,8.0,18.738770000000002
+77,44,Grand-Est,68,Haut-Rhin,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],772.0,3.1549
+78,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,62.0,116.30326000000001
+79,44,Grand-Est,88,Vosges,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],575.0,2.2079
+80,44,Grand-Est,88,Vosges,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.35100000000000003
+81,52,Pays de la Loire,85,Vendée,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,19.0,44.193999999999996
+82,84,Auvergne-Rhône-Alpes,26,Drôme,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,50.0,96.51604
+83,76,Occitanie,30,Gard,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,82.0,222.1497
+84,75,Nouvelle Aquitaine,47,Lot-et-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],186.0,15.874979999999999
+85,52,Pays de la Loire,53,Mayenne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,2.688
+86,52,Pays de la Loire,53,Mayenne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],254.0,1.34786
+87,76,Occitanie,30,Gard,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],8556.0,35.25925
+88,53,Bretagne,22,Côtes-d'Armor,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],138.0,0.50669
+89,75,Nouvelle Aquitaine,16,Charente,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2840.0,16.09701
+90,75,Nouvelle Aquitaine,16,Charente,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],516.0,1.90765
+91,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],317.0,26.078110000000002
+92,75,Nouvelle Aquitaine,17,Charente-Maritime,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],250.0,0.5120899999999999
+93,75,Nouvelle Aquitaine,19,Corrèze,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],356.0,30.52099
+94,75,Nouvelle Aquitaine,24,Dordogne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],78.0,12.687000000000001
+95,75,Nouvelle Aquitaine,24,Dordogne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],694.0,2.6006
+96,76,Occitanie,32,Gers,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.0828
+97,75,Nouvelle Aquitaine,33,Gironde,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.1422
+98,76,Occitanie,30,Gard,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],259.0,0.5637300000000001
+99,75,Nouvelle Aquitaine,40,Landes,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],148.0,24.9552
+100,75,Nouvelle Aquitaine,40,Landes,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],3.0,0.27
+101,75,Nouvelle Aquitaine,47,Lot-et-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,36.0,78.385
+102,75,Nouvelle Aquitaine,86,Vienne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],26.0,4.653980000000001
+103,75,Nouvelle Aquitaine,87,Haute-Vienne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],128.0,0.29625999999999997
+104,84,Auvergne-Rhône-Alpes,73,Savoie,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.145
+105,76,Occitanie,30,Gard,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.129
+106,76,Occitanie,31,Haute-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],8923.0,38.529309999999995
+107,76,Occitanie,34,Hérault,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.4
+108,76,Occitanie,48,Lozère,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],580.0,4.52841
+109,76,Occitanie,65,Hautes-Pyrénées,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,9.0,5.886
+110,76,Occitanie,81,Tarn,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],242.0,19.7843
+111,76,Occitanie,82,Tarn-et-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,31.0,87.133
+112,84,Auvergne-Rhône-Alpes,1,Ain,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],33.0,2.4657299999999998
+113,84,Auvergne-Rhône-Alpes,7,Ardèche,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],109.0,9.17261
+114,84,Auvergne-Rhône-Alpes,26,Drôme,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1122.0,4.5951900000000006
+115,84,Auvergne-Rhône-Alpes,69,Rhône,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],284.0,0.646075
+116,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],186.0,15.54372
+117,93,Provence-Alpes-Côte d'Azur,83,Var,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.063
+118,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+119,44,Grand-Est,8,Ardennes,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+120,52,Pays de la Loire,53,Mayenne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,18.0,154.18200000000002
+121,32,Hauts-de-France,62,Pas-de-Calais,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+122,32,Hauts-de-France,60,Oise,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+123,75,Nouvelle Aquitaine,17,Charente-Maritime,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+124,27,Bourgogne-Franche-Comté,21,Côte-d'Or,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,31.0,291.7
+125,44,Grand-Est,68,Haut-Rhin,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+126,32,Hauts-de-France,2,Aisne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,99.0,1009.89
+127,32,Hauts-de-France,59,Nord,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+128,28,Normandie,61,Orne,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+129,32,Hauts-de-France,60,Oise,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,38.0,384.06199999999995
+130,76,Occitanie,81,Tarn,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+131,52,Pays de la Loire,44,Loire-Atlantique,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+132,53,Bretagne,29,Finistère,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+133,84,Auvergne-Rhône-Alpes,3,Allier,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+134,76,Occitanie,30,Gard,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+135,76,Occitanie,32,Gers,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+136,84,Auvergne-Rhône-Alpes,7,Ardèche,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+137,84,Auvergne-Rhône-Alpes,69,Rhône,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+138,27,Bourgogne-Franche-Comté,70,Haute-Saône,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],17.0,3.1
+139,53,Bretagne,29,Finistère,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+140,11,Île-de-France,77,Seine-et-Marne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.235
+141,27,Bourgogne-Franche-Comté,21,Côte-d'Or,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,5.0,1.867
+142,76,Occitanie,81,Tarn,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,73.0,52.36600000000001
+143,75,Nouvelle Aquitaine,47,Lot-et-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,7.0,5.197
+144,32,Hauts-de-France,59,Nord,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+145,24,Centre-Val de Loire,18,Cher,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+146,75,Nouvelle Aquitaine,19,Corrèze,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,24.0,31.586
+147,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,17.0,26.006
+148,24,Centre-Val de Loire,37,Indre-et-Loire,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.17
+149,44,Grand-Est,54,Meurthe-et-Moselle,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+150,76,Occitanie,66,Pyrénées-Orientales,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+151,27,Bourgogne-Franche-Comté,70,Haute-Saône,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+152,28,Normandie,61,Orne,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+153,27,Bourgogne-Franche-Comté,39,Jura,300,Hydraulique,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.1
+154,27,Bourgogne-Franche-Comté,70,Haute-Saône,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,9.0,5.352
+155,28,Normandie,27,Eure,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+156,28,Normandie,27,Eure,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,2.0,16.35
+157,28,Normandie,50,Manche,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.5870000000000001
+158,75,Nouvelle Aquitaine,23,Creuse,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+159,44,Grand-Est,67,Bas-Rhin,300,Hydraulique,2,Injection du surplus,2020-06-30,c-]100;250],2.0,0.257
+160,52,Pays de la Loire,72,Sarthe,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+161,75,Nouvelle Aquitaine,17,Charente-Maritime,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+162,32,Hauts-de-France,80,Somme,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.09
+163,44,Grand-Est,10,Aube,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+164,44,Grand-Est,51,Marne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,2.0,1.2
+165,44,Grand-Est,51,Marne,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+166,75,Nouvelle Aquitaine,16,Charente,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],6.0,1.3030000000000002
+167,44,Grand-Est,55,Meuse,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+168,44,Grand-Est,57,Moselle,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,3.0,6.234
+169,52,Pays de la Loire,85,Vendée,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,3.0,2.722
+170,76,Occitanie,32,Gers,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+171,52,Pays de la Loire,85,Vendée,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+172,76,Occitanie,82,Tarn-et-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.6729999999999999
+173,75,Nouvelle Aquitaine,16,Charente,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,5.0,2.403
+174,75,Nouvelle Aquitaine,47,Lot-et-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+175,75,Nouvelle Aquitaine,19,Corrèze,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+176,75,Nouvelle Aquitaine,40,Landes,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,4.0,3.7
+177,76,Occitanie,11,Aude,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+178,84,Auvergne-Rhône-Alpes,7,Ardèche,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,36.0,31.409000000000002
+179,76,Occitanie,32,Gers,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],17.0,3.145
+180,84,Auvergne-Rhône-Alpes,73,Savoie,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.6398
+181,76,Occitanie,81,Tarn,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],5.0,0.408
+182,84,Auvergne-Rhône-Alpes,1,Ain,300,Hydraulique,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.1
+183,84,Auvergne-Rhône-Alpes,38,Isère,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],8.0,0.628
+184,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,21.0,28.629
+185,32,Hauts-de-France,80,Somme,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,5.0,5.671
+186,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],3.0,0.63
+187,32,Hauts-de-France,80,Somme,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],3.0,0.695
+188,53,Bretagne,56,Morbihan,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,14.0,9.914
+189,11,Île-de-France,93,Seine-Saint-Denis,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,9.8
+190,27,Bourgogne-Franche-Comté,25,Doubs,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,6.0,10.299000000000001
+191,44,Grand-Est,10,Aube,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,6.0,8.273
+192,44,Grand-Est,88,Vosges,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],2.0,0.499
+193,24,Centre-Val de Loire,37,Indre-et-Loire,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.15
+194,24,Centre-Val de Loire,41,Loir-et-Cher,400,Bio énergie,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.055
+195,44,Grand-Est,10,Aube,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.08
+196,28,Normandie,61,Orne,400,Bio énergie,2,Injection du surplus,2020-06-30,d-]250;...[,2.0,0.73
+197,27,Bourgogne-Franche-Comté,39,Jura,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.05
+198,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,8.292
+199,76,Occitanie,12,Aveyron,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.25
+200,28,Normandie,50,Manche,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],10.0,0.621
+201,32,Hauts-de-France,60,Oise,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],2.0,0.47
+202,75,Nouvelle Aquitaine,47,Lot-et-Garonne,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.15
+203,44,Grand-Est,8,Ardennes,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.077
+204,44,Grand-Est,54,Meurthe-et-Moselle,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],4.0,0.2295
+205,52,Pays de la Loire,44,Loire-Atlantique,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],3.0,0.19
+206,52,Pays de la Loire,49,Maine-et-Loire,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],7.0,1.409
+207,76,Occitanie,48,Lozère,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.153
+208,52,Pays de la Loire,85,Vendée,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+209,76,Occitanie,12,Aveyron,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],2.0,0.42
+210,76,Occitanie,65,Hautes-Pyrénées,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+211,76,Occitanie,81,Tarn,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.2
+212,84,Auvergne-Rhône-Alpes,3,Allier,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,3.822
+213,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,20.15
+214,11,Île-de-France,78,Yvelines,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+215,11,Île-de-France,75,Paris,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+216,75,Nouvelle Aquitaine,86,Vienne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,8.0,17.127
+217,11,Île-de-France,92,Hauts-de-Seine,500,Cogénération,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,11.1
+218,24,Centre-Val de Loire,28,Eure-et-Loir,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,1.5
+219,24,Centre-Val de Loire,37,Indre-et-Loire,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+220,76,Occitanie,65,Hautes-Pyrénées,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,11.091
+221,53,Bretagne,56,Morbihan,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,1.14
+222,28,Normandie,76,Seine-Maritime,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+223,32,Hauts-de-France,59,Nord,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,33.0,101.67
+224,52,Pays de la Loire,85,Vendée,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,7.0,25.984
+225,52,Pays de la Loire,44,Loire-Atlantique,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+226,93,Provence-Alpes-Côte d'Azur,83,Var,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,3.562
+227,44,Grand-Est,68,Haut-Rhin,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,6.0,32.077
+228,44,Grand-Est,88,Vosges,500,Cogénération,2,Injection du surplus,2020-06-30,a-]0;36],,
+229,75,Nouvelle Aquitaine,79,Deux-Sèvres,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,2.499
+230,76,Occitanie,31,Haute-Garonne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,6.0,30.143
+231,75,Nouvelle Aquitaine,86,Vienne,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+232,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],1.0,0.23
+233,76,Occitanie,34,Hérault,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+234,84,Auvergne-Rhône-Alpes,7,Ardèche,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,4.823
+235,28,Normandie,27,Eure,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,7.6
+236,27,Bourgogne-Franche-Comté,39,Jura,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,2.0,12.978
+237,24,Centre-Val de Loire,45,Loiret,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+238,44,Grand-Est,54,Meurthe-et-Moselle,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.62
+239,28,Normandie,14,Calvados,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+240,52,Pays de la Loire,44,Loire-Atlantique,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+241,52,Pays de la Loire,85,Vendée,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+242,53,Bretagne,56,Morbihan,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+243,84,Auvergne-Rhône-Alpes,7,Ardèche,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,4.0
+244,84,Auvergne-Rhône-Alpes,73,Savoie,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,2.0,10.93
+245,27,Bourgogne-Franche-Comté,25,Doubs,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3768.0,14.687570000000001
+246,11,Île-de-France,75,Paris,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+247,76,Occitanie,65,Hautes-Pyrénées,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],332.0,1.2218
+248,11,Île-de-France,78,Yvelines,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],107.0,0.40985
+249,11,Île-de-France,77,Seine-et-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],4394.0,15.70866
+250,11,Île-de-France,91,Essonne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],4.0,0.617
+251,76,Occitanie,31,Haute-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,50.0,128.31
+252,27,Bourgogne-Franche-Comté,25,Doubs,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],3.0,0.2198
+253,11,Île-de-France,77,Seine-et-Marne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],3.0,0.2346
+254,11,Île-de-France,91,Essonne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],18.0,1.25396
+255,11,Île-de-France,91,Essonne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],528.0,1.8353
+256,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3789.0,16.24975
+257,24,Centre-Val de Loire,18,Cher,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],334.0,28.35994
+258,75,Nouvelle Aquitaine,23,Creuse,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],85.0,16.94545
+259,28,Normandie,61,Orne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,3.0,5.725
+260,52,Pays de la Loire,72,Sarthe,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],363.0,1.39244
+261,24,Centre-Val de Loire,18,Cher,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],74.0,13.95836
+262,84,Auvergne-Rhône-Alpes,42,Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],117.0,9.57743
+263,24,Centre-Val de Loire,36,Indre,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],291.0,25.3053
+264,24,Centre-Val de Loire,36,Indre,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,25.69
+265,44,Grand-Est,88,Vosges,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],26.0,2.1805
+266,53,Bretagne,56,Morbihan,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],201.0,16.71891
+267,27,Bourgogne-Franche-Comté,89,Yonne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.037000000000000005
+268,24,Centre-Val de Loire,45,Loiret,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],71.0,5.76674
+269,28,Normandie,61,Orne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],101.0,0.13913
+270,27,Bourgogne-Franche-Comté,21,Côte-d'Or,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],6.0,0.49
+271,27,Bourgogne-Franche-Comté,21,Côte-d'Or,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],91.0,0.30706999999999995
+272,27,Bourgogne-Franche-Comté,25,Doubs,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],15.0,2.6565
+273,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1010.0,4.12311
+274,27,Bourgogne-Franche-Comté,58,Nièvre,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],25.0,4.10136
+275,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],156.0,12.469000000000001
+276,44,Grand-Est,10,Aube,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],462.0,1.5032
+277,75,Nouvelle Aquitaine,17,Charente-Maritime,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],3.0,0.49
+278,28,Normandie,27,Eure,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],27.0,4.6517
+279,28,Normandie,50,Manche,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.132
+280,76,Occitanie,34,Hérault,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1874.0,6.377999999999999
+281,32,Hauts-de-France,2,Aisne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],477.0,1.6533
+282,32,Hauts-de-France,80,Somme,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],22.0,4.1080000000000005
+283,44,Grand-Est,8,Ardennes,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],139.0,0.5286
+284,44,Grand-Est,51,Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],105.0,19.74775
+285,44,Grand-Est,52,Haute-Marne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],146.0,0.5399
+286,44,Grand-Est,54,Meurthe-et-Moselle,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],571.0,2.0769
+287,44,Grand-Est,55,Meuse,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],164.0,0.6001
+288,44,Grand-Est,68,Haut-Rhin,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],4001.0,18.004720000000002
+289,44,Grand-Est,57,Moselle,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],51.0,3.96421
+290,44,Grand-Est,67,Bas-Rhin,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],77.0,0.22261
+291,53,Bretagne,22,Côtes-d'Armor,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,5.0,5.452000000000001
+292,84,Auvergne-Rhône-Alpes,15,Cantal,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],537.0,45.71974
+293,53,Bretagne,35,Ille-et-Vilaine,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],209.0,0.61201
+294,52,Pays de la Loire,49,Maine-et-Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.154
+295,52,Pays de la Loire,53,Mayenne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],177.0,14.8146
+296,75,Nouvelle Aquitaine,79,Deux-Sèvres,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],47.0,0.2165
+297,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],5.0,0.32299999999999995
+298,76,Occitanie,11,Aude,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],158.0,13.194120000000002
+299,75,Nouvelle Aquitaine,16,Charente,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.21899999999999997
+300,75,Nouvelle Aquitaine,19,Corrèze,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1690.0,9.72048
+301,75,Nouvelle Aquitaine,19,Corrèze,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],379.0,1.4306
+302,75,Nouvelle Aquitaine,33,Gironde,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],10274.0,39.12508
+303,75,Nouvelle Aquitaine,40,Landes,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],431.0,35.97875
+304,75,Nouvelle Aquitaine,86,Vienne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],52.0,4.245
+305,76,Occitanie,32,Gers,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],504.0,1.8857
+306,76,Occitanie,11,Aude,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,38.0,118.515
+307,76,Occitanie,12,Aveyron,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3196.0,29.806490000000004
+308,76,Occitanie,30,Gard,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],161.0,29.95338
+309,76,Occitanie,31,Haute-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],204.0,16.680410000000002
+310,76,Occitanie,48,Lozère,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],84.0,7.121519999999999
+311,76,Occitanie,48,Lozère,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],74.0,0.2924
+312,76,Occitanie,65,Hautes-Pyrénées,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],53.0,9.071
+313,84,Auvergne-Rhône-Alpes,1,Ain,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,5.0,10.663
+314,84,Auvergne-Rhône-Alpes,3,Allier,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2592.0,11.81086
+315,84,Auvergne-Rhône-Alpes,26,Drôme,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],132.0,0.36813
+316,84,Auvergne-Rhône-Alpes,26,Drôme,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,0.381
+317,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],115.0,0.37569
+318,84,Auvergne-Rhône-Alpes,42,Loire,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],154.0,0.46923000000000004
+319,84,Auvergne-Rhône-Alpes,43,Haute-Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.04349
+320,84,Auvergne-Rhône-Alpes,69,Rhône,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],88.0,6.68285
+321,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1824.0,9.60561
+322,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3936.0,12.543339999999999
+323,93,Provence-Alpes-Côte d'Azur,83,Var,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],132.0,10.39131
+324,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],113.0,0.3082
+325,44,Grand-Est,10,Aube,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+326,28,Normandie,50,Manche,200,Eolien,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+327,28,Normandie,76,Seine-Maritime,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,45.0,433.92
+328,24,Centre-Val de Loire,41,Loir-et-Cher,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,4.0,44.5
+329,84,Auvergne-Rhône-Alpes,1,Ain,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,3.0,29.75
+330,52,Pays de la Loire,49,Maine-et-Loire,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+331,27,Bourgogne-Franche-Comté,89,Yonne,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+332,28,Normandie,14,Calvados,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+333,28,Normandie,27,Eure,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,7.0,76.9
+334,28,Normandie,50,Manche,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+335,52,Pays de la Loire,85,Vendée,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+336,44,Grand-Est,51,Marne,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+337,75,Nouvelle Aquitaine,23,Creuse,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+338,76,Occitanie,34,Hérault,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+339,76,Occitanie,11,Aude,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+340,76,Occitanie,81,Tarn,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,20.0,198.09900000000002
+341,84,Auvergne-Rhône-Alpes,43,Haute-Loire,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+342,84,Auvergne-Rhône-Alpes,69,Rhône,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+343,44,Grand-Est,57,Moselle,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.07400000000000001
+344,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+345,27,Bourgogne-Franche-Comté,58,Nièvre,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+346,44,Grand-Est,51,Marne,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.185
+347,84,Auvergne-Rhône-Alpes,42,Loire,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,8.0,12.42
+348,27,Bourgogne-Franche-Comté,89,Yonne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],5.0,0.885
+349,27,Bourgogne-Franche-Comté,25,Doubs,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,25.0,20.947
+350,24,Centre-Val de Loire,36,Indre,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],6.0,0.9590000000000001
+351,44,Grand-Est,10,Aube,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,11.0,4.28
+352,44,Grand-Est,52,Haute-Marne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],3.0,0.515
+353,28,Normandie,61,Orne,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+354,84,Auvergne-Rhône-Alpes,42,Loire,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+355,44,Grand-Est,88,Vosges,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],14.0,0.2116
+356,27,Bourgogne-Franche-Comté,39,Jura,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+357,27,Bourgogne-Franche-Comté,39,Jura,300,Hydraulique,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.22
+358,52,Pays de la Loire,49,Maine-et-Loire,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.22
+359,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],4.0,0.27
+360,32,Hauts-de-France,2,Aisne,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.17
+361,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,26.0,74.89699999999999
+362,27,Bourgogne-Franche-Comté,89,Yonne,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],4.0,0.284
+363,27,Bourgogne-Franche-Comté,89,Yonne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,9.0,9.08
+364,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+365,44,Grand-Est,55,Meuse,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+366,75,Nouvelle Aquitaine,87,Haute-Vienne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,26.0,33.105
+367,52,Pays de la Loire,53,Mayenne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],16.0,3.0460000000000003
+368,32,Hauts-de-France,62,Pas-de-Calais,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+369,32,Hauts-de-France,80,Somme,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+370,44,Grand-Est,55,Meuse,300,Hydraulique,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.063
+371,44,Grand-Est,54,Meurthe-et-Moselle,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],5.0,0.39
+372,44,Grand-Est,54,Meurthe-et-Moselle,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],7.0,0.977
+373,44,Grand-Est,68,Haut-Rhin,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],9.0,0.485
+374,52,Pays de la Loire,49,Maine-et-Loire,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+375,53,Bretagne,22,Côtes-d'Armor,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+376,75,Nouvelle Aquitaine,16,Charente,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+377,75,Nouvelle Aquitaine,16,Charente,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+378,84,Auvergne-Rhône-Alpes,38,Isère,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],15.0,0.067
+379,75,Nouvelle Aquitaine,24,Dordogne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],14.0,2.474
+380,75,Nouvelle Aquitaine,33,Gironde,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.21100000000000002
+381,75,Nouvelle Aquitaine,86,Vienne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,3.0,3.8160000000000003
+382,76,Occitanie,11,Aude,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,34.0,19.771
+383,76,Occitanie,30,Gard,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,4.0,2.08
+384,76,Occitanie,31,Haute-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.825
+385,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.2
+386,76,Occitanie,46,Lot,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.2
+387,76,Occitanie,65,Hautes-Pyrénées,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],10.0,0.077
+388,76,Occitanie,65,Hautes-Pyrénées,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.05
+389,76,Occitanie,66,Pyrénées-Orientales,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,20.0,26.285999999999998
+390,84,Auvergne-Rhône-Alpes,7,Ardèche,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+391,84,Auvergne-Rhône-Alpes,15,Cantal,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.09
+392,84,Auvergne-Rhône-Alpes,26,Drôme,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,12.0,18.293
+393,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,300,Hydraulique,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,0.315
+394,84,Auvergne-Rhône-Alpes,73,Savoie,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.207
+395,84,Auvergne-Rhône-Alpes,73,Savoie,300,Hydraulique,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.15
+396,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,300,Hydraulique,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.11
+397,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.13
+398,11,Île-de-France,78,Yvelines,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.08
+399,93,Provence-Alpes-Côte d'Azur,83,Var,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,24.234
+400,84,Auvergne-Rhône-Alpes,43,Haute-Loire,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],5.0,1.037
+401,28,Normandie,14,Calvados,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],6.0,1.15
+402,11,Île-de-France,91,Essonne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,5.0,26.441
+403,24,Centre-Val de Loire,18,Cher,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,2.151
+404,32,Hauts-de-France,2,Aisne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,4.245
+405,44,Grand-Est,54,Meurthe-et-Moselle,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],8.0,1.68
+406,75,Nouvelle Aquitaine,23,Creuse,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,4.178999999999999
+407,27,Bourgogne-Franche-Comté,25,Doubs,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.14400000000000002
+408,24,Centre-Val de Loire,37,Indre-et-Loire,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,5.0,12.707
+409,93,Provence-Alpes-Côte d'Azur,83,Var,400,Bio énergie,2,Injection du surplus,2020-06-30,a-]0;36],,
+410,75,Nouvelle Aquitaine,17,Charente-Maritime,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.92
+411,32,Hauts-de-France,62,Pas-de-Calais,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],6.0,1.1320000000000001
+412,28,Normandie,50,Manche,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+413,27,Bourgogne-Franche-Comté,39,Jura,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,1.6680000000000001
+414,32,Hauts-de-France,59,Nord,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.25
+415,32,Hauts-de-France,62,Pas-de-Calais,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.1
+416,32,Hauts-de-France,62,Pas-de-Calais,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,13.0,35.935
+417,44,Grand-Est,67,Bas-Rhin,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,1.8
+418,53,Bretagne,56,Morbihan,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,0.62
+419,76,Occitanie,65,Hautes-Pyrénées,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,1.64
+420,75,Nouvelle Aquitaine,47,Lot-et-Garonne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.49
+421,84,Auvergne-Rhône-Alpes,1,Ain,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.126
+422,84,Auvergne-Rhône-Alpes,26,Drôme,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,5.0,18.467
+423,84,Auvergne-Rhône-Alpes,42,Loire,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,0.5529999999999999
+424,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.231
+425,11,Île-de-France,75,Paris,500,Cogénération,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.23199999999999998
+426,53,Bretagne,29,Finistère,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,66.0,194.081
+427,11,Île-de-France,77,Seine-et-Marne,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+428,52,Pays de la Loire,72,Sarthe,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,9.0,38.979
+429,24,Centre-Val de Loire,45,Loiret,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,19.0,57.222
+430,52,Pays de la Loire,49,Maine-et-Loire,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,7.0,19.504
+431,84,Auvergne-Rhône-Alpes,42,Loire,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.07
+432,28,Normandie,50,Manche,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,5.0,20.82
+433,11,Île-de-France,95,Val-d'Oise,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+434,27,Bourgogne-Franche-Comté,21,Côte-d'Or,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,7.0,34.769
+435,27,Bourgogne-Franche-Comté,25,Doubs,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+436,75,Nouvelle Aquitaine,40,Landes,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+437,27,Bourgogne-Franche-Comté,70,Haute-Saône,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,3.266
+438,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,5.976
+439,28,Normandie,50,Manche,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,4.0
+440,28,Normandie,61,Orne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,5.0,12.3
+441,84,Auvergne-Rhône-Alpes,1,Ain,500,Cogénération,2,Injection du surplus,2020-06-30,a-]0;36],,
+442,76,Occitanie,30,Gard,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+443,84,Auvergne-Rhône-Alpes,69,Rhône,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+444,84,Auvergne-Rhône-Alpes,3,Allier,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,3.0,6.138
+445,84,Auvergne-Rhône-Alpes,1,Ain,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,6.32
+446,84,Auvergne-Rhône-Alpes,42,Loire,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+447,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,2.2
+448,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,44.0,114.70100000000001
+449,11,Île-de-France,78,Yvelines,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+450,11,Île-de-France,77,Seine-et-Marne,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.756
+451,28,Normandie,76,Seine-Maritime,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,2.0,13.27
+452,53,Bretagne,29,Finistère,600,Autres,1,Injection totale,2020-06-30,c-]100;250],1.0,0.25
+453,27,Bourgogne-Franche-Comté,70,Haute-Saône,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,7.428
+454,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+455,53,Bretagne,22,Côtes-d'Armor,600,Autres,1,Injection totale,2020-06-30,b-]36;100],1.0,0.045
+456,93,Provence-Alpes-Côte d'Azur,83,Var,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,3.0,20.62
+457,32,Hauts-de-France,60,Oise,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,3.3089999999999997
+458,75,Nouvelle Aquitaine,33,Gironde,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.755
+459,84,Auvergne-Rhône-Alpes,26,Drôme,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,7.5
+460,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.214
+461,44,Grand-Est,51,Marne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.099
+462,52,Pays de la Loire,85,Vendée,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.11900000000000001
+463,11,Île-de-France,77,Seine-et-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],29.0,4.895
+464,11,Île-de-France,77,Seine-et-Marne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],270.0,0.7075600000000001
+465,11,Île-de-France,92,Hauts-de-Seine,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],7.0,1.0776
+466,11,Île-de-France,91,Essonne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2829.0,9.22804
+467,11,Île-de-France,94,Val-de-Marne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],190.0,0.6555
+468,75,Nouvelle Aquitaine,40,Landes,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1577.0,5.7945
+469,24,Centre-Val de Loire,41,Loir-et-Cher,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1868.0,8.53254
+470,11,Île-de-France,93,Seine-Saint-Denis,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],279.0,1.0748
+471,27,Bourgogne-Franche-Comté,39,Jura,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,2.4
+472,52,Pays de la Loire,72,Sarthe,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.0384
+473,27,Bourgogne-Franche-Comté,21,Côte-d'Or,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,6.0,22.502
+474,75,Nouvelle Aquitaine,19,Corrèze,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],61.0,0.14920999999999998
+475,24,Centre-Val de Loire,18,Cher,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],80.0,0.23431999999999997
+476,24,Centre-Val de Loire,37,Indre-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],15.0,2.5839999999999996
+477,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,0.49
+478,27,Bourgogne-Franche-Comté,39,Jura,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],34.0,2.89508
+479,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],117.0,0.29341999999999996
+480,32,Hauts-de-France,62,Pas-de-Calais,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1421.0,4.8291900000000005
+481,24,Centre-Val de Loire,36,Indre,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.0998
+482,24,Centre-Val de Loire,37,Indre-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],137.0,11.3875
+483,27,Bourgogne-Franche-Comté,21,Côte-d'Or,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2845.0,13.50898
+484,84,Auvergne-Rhône-Alpes,43,Haute-Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],408.0,1.7574
+485,24,Centre-Val de Loire,41,Loir-et-Cher,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,8.0,17.726
+486,24,Centre-Val de Loire,41,Loir-et-Cher,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],84.0,0.18792999999999999
+487,52,Pays de la Loire,85,Vendée,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,3.0,1.0141
+488,24,Centre-Val de Loire,45,Loiret,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.07722000000000001
+489,75,Nouvelle Aquitaine,19,Corrèze,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.1358
+490,32,Hauts-de-France,59,Nord,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.15
+491,53,Bretagne,56,Morbihan,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],54.0,9.7197
+492,27,Bourgogne-Franche-Comté,58,Nièvre,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],260.0,0.9021
+493,44,Grand-Est,68,Haut-Rhin,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.45
+494,27,Bourgogne-Franche-Comté,70,Haute-Saône,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],369.0,1.3648
+495,27,Bourgogne-Franche-Comté,70,Haute-Saône,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.099
+496,76,Occitanie,46,Lot,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],279.0,1.08608
+497,75,Nouvelle Aquitaine,79,Deux-Sèvres,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.09
+498,44,Grand-Est,52,Haute-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],43.0,3.6395
+499,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],1.0,0.201
+500,76,Occitanie,9,Ariège,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],60.0,0.1488
+501,28,Normandie,14,Calvados,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,8.2
+502,32,Hauts-de-France,60,Oise,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],10.0,1.854
+503,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.1676
+504,44,Grand-Est,55,Meuse,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],49.0,0.11016
+505,75,Nouvelle Aquitaine,16,Charente,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,16.0,54.256
+506,28,Normandie,61,Orne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1844.0,9.28249
+507,28,Normandie,61,Orne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],129.0,10.759
+508,32,Hauts-de-France,59,Nord,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,11.0,34.595
+509,75,Nouvelle Aquitaine,19,Corrèze,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,10.0,41.291000000000004
+510,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.2155
+511,32,Hauts-de-France,60,Oise,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],19.0,1.4898
+512,84,Auvergne-Rhône-Alpes,43,Haute-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],93.0,15.054
+513,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,13.0,13.917
+514,32,Hauts-de-France,80,Somme,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1739.0,6.35414
+515,44,Grand-Est,8,Ardennes,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1191.0,5.90256
+516,44,Grand-Est,8,Ardennes,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],73.0,6.007999999999999
+517,52,Pays de la Loire,72,Sarthe,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],5201.0,22.1716
+518,44,Grand-Est,10,Aube,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,2.0,20.3
+519,52,Pays de la Loire,72,Sarthe,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],94.0,0.24048000000000003
+520,44,Grand-Est,55,Meuse,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1248.0,4.588030000000001
+521,76,Occitanie,46,Lot,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,6.0,29.029
+522,52,Pays de la Loire,44,Loire-Atlantique,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],11478.0,47.15215
+523,52,Pays de la Loire,44,Loire-Atlantique,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],360.0,29.81083
+524,76,Occitanie,11,Aude,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],764.0,2.7867
+525,52,Pays de la Loire,49,Maine-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],512.0,43.68153
+526,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],247.0,0.50802
+527,75,Nouvelle Aquitaine,79,Deux-Sèvres,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],380.0,1.94517
+528,52,Pays de la Loire,72,Sarthe,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,0.4
+529,52,Pays de la Loire,85,Vendée,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],11908.0,56.41345
+530,75,Nouvelle Aquitaine,24,Dordogne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.15
+531,75,Nouvelle Aquitaine,79,Deux-Sèvres,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.183
+532,76,Occitanie,31,Haute-Garonne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.35
+533,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],6315.0,36.94998
+534,76,Occitanie,9,Ariège,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],43.0,6.813
+535,76,Occitanie,9,Ariège,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,11.0,26.228
+536,76,Occitanie,32,Gers,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],74.0,0.23245
+537,76,Occitanie,11,Aude,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],186.0,0.46245
+538,84,Auvergne-Rhône-Alpes,26,Drôme,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.1
+539,76,Occitanie,46,Lot,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],52.0,0.175
+540,76,Occitanie,82,Tarn-et-Garonne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],105.0,0.29064
+541,84,Auvergne-Rhône-Alpes,1,Ain,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.26354
+542,84,Auvergne-Rhône-Alpes,42,Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.414
+543,84,Auvergne-Rhône-Alpes,69,Rhône,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],32.0,5.7088
+544,84,Auvergne-Rhône-Alpes,69,Rhône,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.5
+545,84,Auvergne-Rhône-Alpes,73,Savoie,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],573.0,2.1437
+546,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],89.0,15.977870000000001
+547,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],6.0,0.39959
+548,93,Provence-Alpes-Côte d'Azur,83,Var,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.612
+549,32,Hauts-de-France,2,Aisne,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+550,53,Bretagne,56,Morbihan,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+551,84,Auvergne-Rhône-Alpes,73,Savoie,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+552,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+553,24,Centre-Val de Loire,36,Indre,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,27.0,261.2
+554,24,Centre-Val de Loire,37,Indre-et-Loire,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+555,24,Centre-Val de Loire,45,Loiret,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,5.0,55.4
+556,27,Bourgogne-Franche-Comté,25,Doubs,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,19.0,182.82
+557,28,Normandie,14,Calvados,200,Eolien,1,Injection totale,2020-06-30,b-]36;100],1.0,0.08800000000000001
+558,28,Normandie,14,Calvados,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+559,28,Normandie,27,Eure,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+560,44,Grand-Est,51,Marne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,93.0,869.721
+561,75,Nouvelle Aquitaine,19,Corrèze,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+562,84,Auvergne-Rhône-Alpes,7,Ardèche,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+563,44,Grand-Est,51,Marne,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+564,44,Grand-Est,52,Haute-Marne,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+565,75,Nouvelle Aquitaine,17,Charente-Maritime,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+566,53,Bretagne,35,Ille-et-Vilaine,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,19.0,136.35
+567,52,Pays de la Loire,85,Vendée,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+568,52,Pays de la Loire,53,Mayenne,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+569,52,Pays de la Loire,72,Sarthe,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+570,76,Occitanie,48,Lozère,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,5.0,34.07
+571,75,Nouvelle Aquitaine,40,Landes,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+572,84,Auvergne-Rhône-Alpes,15,Cantal,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,10.0,89.0
+573,76,Occitanie,34,Hérault,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,27.0,234.75
+574,84,Auvergne-Rhône-Alpes,7,Ardèche,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,17.0,111.814
+575,84,Auvergne-Rhône-Alpes,26,Drôme,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+576,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+577,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+578,44,Grand-Est,10,Aube,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],5.0,0.94
+579,44,Grand-Est,51,Marne,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+580,52,Pays de la Loire,72,Sarthe,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],3.0,0.45
+581,84,Auvergne-Rhône-Alpes,15,Cantal,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],6.0,0.963
+582,44,Grand-Est,52,Haute-Marne,300,Hydraulique,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.14
+583,11,Île-de-France,77,Seine-et-Marne,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+584,44,Grand-Est,52,Haute-Marne,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.23600000000000002
+585,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],9.0,1.74
+586,53,Bretagne,56,Morbihan,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+587,24,Centre-Val de Loire,28,Eure-et-Loir,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.335
+588,76,Occitanie,34,Hérault,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.18
+589,24,Centre-Val de Loire,41,Loir-et-Cher,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.65
+590,24,Centre-Val de Loire,45,Loiret,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+591,75,Nouvelle Aquitaine,79,Deux-Sèvres,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.111
+592,28,Normandie,50,Manche,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],4.0,0.33899999999999997
+593,28,Normandie,50,Manche,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,2.0,1.955
+594,28,Normandie,76,Seine-Maritime,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+595,53,Bretagne,35,Ille-et-Vilaine,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.12
+596,52,Pays de la Loire,53,Mayenne,300,Hydraulique,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+597,75,Nouvelle Aquitaine,19,Corrèze,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+598,84,Auvergne-Rhône-Alpes,1,Ain,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.83
+599,76,Occitanie,12,Aveyron,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,32.0,39.918
+600,44,Grand-Est,67,Bas-Rhin,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+601,44,Grand-Est,67,Bas-Rhin,300,Hydraulique,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,1.1079999999999999
+602,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,58.0,63.748000000000005
+603,75,Nouvelle Aquitaine,23,Creuse,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,10.0,27.474
+604,44,Grand-Est,88,Vosges,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,36.0,21.099
+605,52,Pays de la Loire,72,Sarthe,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.055
+606,53,Bretagne,22,Côtes-d'Armor,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.16
+607,75,Nouvelle Aquitaine,19,Corrèze,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.145
+608,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.185
+609,76,Occitanie,9,Ariège,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,55.0,60.543
+610,76,Occitanie,11,Aude,300,Hydraulique,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.092
+611,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+612,76,Occitanie,46,Lot,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,24.0,34.879
+613,76,Occitanie,48,Lozère,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,18.0,13.639000000000001
+614,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+615,84,Auvergne-Rhône-Alpes,26,Drôme,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+616,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.207
+617,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],2.0,0.34
+618,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.172
+619,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.075
+620,11,Île-de-France,77,Seine-et-Marne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,8.0,48.12
+621,28,Normandie,50,Manche,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,9.0,7.806
+622,24,Centre-Val de Loire,28,Eure-et-Loir,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],3.0,0.65
+623,28,Normandie,27,Eure,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,7.0,9.916
+624,24,Centre-Val de Loire,36,Indre,400,Bio énergie,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.1
+625,24,Centre-Val de Loire,41,Loir-et-Cher,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.095
+626,84,Auvergne-Rhône-Alpes,73,Savoie,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.25
+627,27,Bourgogne-Franche-Comté,70,Haute-Saône,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],11.0,2.241
+628,27,Bourgogne-Franche-Comté,70,Haute-Saône,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,2.99
+629,44,Grand-Est,57,Moselle,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,0.945
+630,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.935
+631,53,Bretagne,56,Morbihan,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+632,32,Hauts-de-France,59,Nord,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+633,44,Grand-Est,52,Haute-Marne,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.15
+634,53,Bretagne,22,Côtes-d'Armor,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],19.0,3.529
+635,53,Bretagne,35,Ille-et-Vilaine,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+636,75,Nouvelle Aquitaine,47,Lot-et-Garonne,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.12300000000000001
+637,75,Nouvelle Aquitaine,40,Landes,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],2.0,0.43
+638,75,Nouvelle Aquitaine,23,Creuse,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.166
+639,76,Occitanie,31,Haute-Garonne,400,Bio énergie,2,Injection du surplus,2020-06-30,a-]0;36],,
+640,76,Occitanie,32,Gers,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+641,84,Auvergne-Rhône-Alpes,7,Ardèche,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],3.0,0.695
+642,84,Auvergne-Rhône-Alpes,15,Cantal,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],5.0,1.034
+643,84,Auvergne-Rhône-Alpes,42,Loire,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.2
+644,84,Auvergne-Rhône-Alpes,69,Rhône,400,Bio énergie,2,Injection du surplus,2020-06-30,d-]250;...[,2.0,10.7
+645,84,Auvergne-Rhône-Alpes,73,Savoie,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.1465
+646,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,10.0,31.239
+647,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+648,11,Île-de-France,75,Paris,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],1.0,0.23
+649,11,Île-de-France,78,Yvelines,500,Cogénération,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.25
+650,24,Centre-Val de Loire,18,Cher,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+651,11,Île-de-France,78,Yvelines,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,16.0,66.209
+652,32,Hauts-de-France,59,Nord,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+653,11,Île-de-France,92,Hauts-de-Seine,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,9.0,32.075
+654,11,Île-de-France,93,Seine-Saint-Denis,500,Cogénération,1,Injection totale,2020-06-30,b-]36;100],1.0,0.075
+655,44,Grand-Est,55,Meuse,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,4.0,16.773
+656,24,Centre-Val de Loire,45,Loiret,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],1.0,0.237
+657,32,Hauts-de-France,62,Pas-de-Calais,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,14.0
+658,52,Pays de la Loire,85,Vendée,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+659,75,Nouvelle Aquitaine,16,Charente,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+660,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,7.0,17.774
+661,53,Bretagne,35,Ille-et-Vilaine,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+662,44,Grand-Est,51,Marne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,8.0,29.316
+663,44,Grand-Est,57,Moselle,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,7.0,22.69
+664,44,Grand-Est,88,Vosges,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,5.0,12.95
+665,53,Bretagne,22,Côtes-d'Armor,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,23.0,65.509
+666,75,Nouvelle Aquitaine,24,Dordogne,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+667,84,Auvergne-Rhône-Alpes,15,Cantal,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+668,53,Bretagne,56,Morbihan,500,Cogénération,2,Injection du surplus,2020-06-30,a-]0;36],,
+669,75,Nouvelle Aquitaine,40,Landes,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,7.0,26.179000000000002
+670,76,Occitanie,66,Pyrénées-Orientales,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,8.0,25.519000000000002
+671,84,Auvergne-Rhône-Alpes,38,Isère,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+672,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+673,84,Auvergne-Rhône-Alpes,69,Rhône,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,18.0,58.071999999999996
+674,32,Hauts-de-France,59,Nord,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+675,24,Centre-Val de Loire,37,Indre-et-Loire,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+676,44,Grand-Est,8,Ardennes,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,5.0,37.14
+677,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+678,53,Bretagne,35,Ille-et-Vilaine,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,3.0,13.304
+679,76,Occitanie,81,Tarn,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,3.0,17.89
+680,52,Pays de la Loire,44,Loire-Atlantique,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.81
+681,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,600,Autres,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+682,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+683,44,Grand-Est,52,Haute-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],47.0,9.2753
+684,11,Île-de-France,75,Paris,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],130.0,1.74365
+685,53,Bretagne,35,Ille-et-Vilaine,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],6835.0,35.1027
+686,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],7.0,0.5820000000000001
+687,11,Île-de-France,77,Seine-et-Marne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],996.0,3.59182
+688,32,Hauts-de-France,59,Nord,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],3.0,0.2105
+689,11,Île-de-France,78,Yvelines,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],3.0,0.5549
+690,75,Nouvelle Aquitaine,19,Corrèze,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],3.0,0.2048
+691,11,Île-de-France,92,Hauts-de-Seine,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.213
+692,11,Île-de-France,93,Seine-Saint-Denis,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.09516000000000001
+693,11,Île-de-France,94,Val-de-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],914.0,3.49902
+694,11,Île-de-France,94,Val-de-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],3.0,0.621
+695,76,Occitanie,30,Gard,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],214.0,17.1292
+696,76,Occitanie,81,Tarn,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],154.0,0.405369
+697,11,Île-de-France,95,Val-d'Oise,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],6.0,0.528
+698,24,Centre-Val de Loire,18,Cher,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2229.0,15.20686
+699,44,Grand-Est,52,Haute-Marne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],44.0,0.09473
+700,53,Bretagne,56,Morbihan,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.175
+701,24,Centre-Val de Loire,37,Indre-et-Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],320.0,1.23126
+702,53,Bretagne,29,Finistère,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],102.0,0.420195
+703,27,Bourgogne-Franche-Comté,89,Yonne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],44.0,3.20012
+704,53,Bretagne,29,Finistère,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],4466.0,25.418779999999998
+705,75,Nouvelle Aquitaine,86,Vienne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],780.0,3.23353
+706,28,Normandie,14,Calvados,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.6
+707,75,Nouvelle Aquitaine,79,Deux-Sèvres,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],11.0,0.0261
+708,76,Occitanie,34,Hérault,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,68.0,159.43191000000002
+709,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],217.0,19.3054
+710,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.7
+711,76,Occitanie,82,Tarn-et-Garonne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],593.0,2.2276
+712,27,Bourgogne-Franche-Comté,89,Yonne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1616.0,6.98813
+713,27,Bourgogne-Franche-Comté,89,Yonne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],118.0,0.26050999999999996
+714,53,Bretagne,22,Côtes-d'Armor,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3517.0,17.744510000000002
+715,28,Normandie,50,Manche,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3256.0,16.46959
+716,28,Normandie,50,Manche,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],361.0,1.4021
+717,28,Normandie,50,Manche,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.127
+718,44,Grand-Est,55,Meuse,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],9.0,1.9869999999999999
+719,32,Hauts-de-France,59,Nord,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],11.0,0.6874
+720,52,Pays de la Loire,53,Mayenne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.18999000000000002
+721,32,Hauts-de-France,59,Nord,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],293.0,0.9026799999999999
+722,84,Auvergne-Rhône-Alpes,3,Allier,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],79.0,16.09866
+723,53,Bretagne,56,Morbihan,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],3.0,0.14286
+724,84,Auvergne-Rhône-Alpes,15,Cantal,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],31.0,0.07873
+725,44,Grand-Est,52,Haute-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,3.513
+726,75,Nouvelle Aquitaine,79,Deux-Sèvres,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,5.0,16.4279
+727,44,Grand-Est,54,Meurthe-et-Moselle,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],54.0,4.57256
+728,52,Pays de la Loire,72,Sarthe,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],49.0,8.677999999999999
+729,84,Auvergne-Rhône-Alpes,1,Ain,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],14.0,2.5845
+730,44,Grand-Est,88,Vosges,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3295.0,13.0522
+731,44,Grand-Est,88,Vosges,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],76.0,0.24086
+732,75,Nouvelle Aquitaine,17,Charente-Maritime,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.4
+733,84,Auvergne-Rhône-Alpes,69,Rhône,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,15.0,42.093999999999994
+734,84,Auvergne-Rhône-Alpes,26,Drôme,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.1078
+735,52,Pays de la Loire,85,Vendée,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],657.0,54.70995
+736,53,Bretagne,22,Côtes-d'Armor,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],149.0,11.8969
+737,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1158.0,4.36816
+738,75,Nouvelle Aquitaine,24,Dordogne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],256.0,0.64247
+739,76,Occitanie,66,Pyrénées-Orientales,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],961.0,3.11035
+740,75,Nouvelle Aquitaine,79,Deux-Sèvres,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],11.0,1.91077
+741,75,Nouvelle Aquitaine,47,Lot-et-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3321.0,17.1793
+742,75,Nouvelle Aquitaine,47,Lot-et-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],101.0,17.215999999999998
+743,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],148.0,26.2717
+744,76,Occitanie,12,Aveyron,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],400.0,1.8944599999999998
+745,76,Occitanie,81,Tarn,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],819.0,3.26918
+746,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,15.0,23.473000000000003
+747,76,Occitanie,66,Pyrénées-Orientales,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3851.0,19.14537
+748,84,Auvergne-Rhône-Alpes,3,Allier,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],427.0,38.221940000000004
+749,84,Auvergne-Rhône-Alpes,7,Ardèche,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],81.0,14.52806
+750,84,Auvergne-Rhône-Alpes,15,Cantal,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],187.0,0.7283
+751,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],5210.0,21.37419
+752,84,Auvergne-Rhône-Alpes,73,Savoie,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],43.0,3.40046
+753,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],2.0,0.10752
+754,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.2
+755,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],320.0,1.29956
+756,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],58.0,0.16314
+757,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],64.0,4.76486
+758,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.05
+759,93,Provence-Alpes-Côte d'Azur,83,Var,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],98.0,17.83455
+760,75,Nouvelle Aquitaine,79,Deux-Sèvres,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,2.0,22.0
+761,24,Centre-Val de Loire,18,Cher,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,20.0,214.9
+762,76,Occitanie,31,Haute-Garonne,200,Eolien,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+763,32,Hauts-de-France,62,Pas-de-Calais,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,109.0,962.7514
+764,28,Normandie,61,Orne,200,Eolien,1,Injection totale,2020-06-30,b-]36;100],1.0,0.08
+765,28,Normandie,61,Orne,200,Eolien,1,Injection totale,2020-06-30,c-]100;250],1.0,0.25
+766,28,Normandie,76,Seine-Maritime,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+767,53,Bretagne,56,Morbihan,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,42.0,362.611
+768,76,Occitanie,31,Haute-Garonne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,5.0,45.32
+769,52,Pays de la Loire,49,Maine-et-Loire,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,16.0,155.24
+770,76,Occitanie,32,Gers,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+771,53,Bretagne,22,Côtes-d'Armor,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,46.0,331.795
+772,76,Occitanie,12,Aveyron,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+773,75,Nouvelle Aquitaine,87,Haute-Vienne,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+774,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+775,76,Occitanie,66,Pyrénées-Orientales,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,8.0,66.1
+776,76,Occitanie,81,Tarn,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+777,84,Auvergne-Rhône-Alpes,1,Ain,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+778,84,Auvergne-Rhône-Alpes,3,Allier,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,6.0,47.466
+779,84,Auvergne-Rhône-Alpes,26,Drôme,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,18.0,139.39
+780,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,7.0,50.8
+781,53,Bretagne,29,Finistère,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.16
+782,75,Nouvelle Aquitaine,16,Charente,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],6.0,0.486
+783,27,Bourgogne-Franche-Comté,25,Doubs,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],12.0,2.305
+784,84,Auvergne-Rhône-Alpes,1,Ain,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+785,53,Bretagne,29,Finistère,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,2.0,0.76
+786,27,Bourgogne-Franche-Comté,39,Jura,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,36.0,29.866999999999997
+787,75,Nouvelle Aquitaine,23,Creuse,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+788,28,Normandie,14,Calvados,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+789,27,Bourgogne-Franche-Comté,39,Jura,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],17.0,2.694
+790,27,Bourgogne-Franche-Comté,58,Nièvre,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],2.0,0.29
+791,28,Normandie,14,Calvados,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],3.0,0.431
+792,84,Auvergne-Rhône-Alpes,7,Ardèche,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+793,84,Auvergne-Rhône-Alpes,73,Savoie,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,52.0,100.78200000000001
+794,84,Auvergne-Rhône-Alpes,3,Allier,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],3.0,0.516
+795,44,Grand-Est,67,Bas-Rhin,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.85
+796,44,Grand-Est,68,Haut-Rhin,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,12.0,12.991
+797,75,Nouvelle Aquitaine,33,Gironde,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,5.0,1.97
+798,75,Nouvelle Aquitaine,87,Haute-Vienne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],16.0,2.523
+799,75,Nouvelle Aquitaine,17,Charente-Maritime,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+800,75,Nouvelle Aquitaine,19,Corrèze,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],6.0,1.1320000000000001
+801,75,Nouvelle Aquitaine,24,Dordogne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,23.0,10.501
+802,76,Occitanie,30,Gard,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.6970000000000001
+803,76,Occitanie,9,Ariège,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],9.0,0.6729999999999999
+804,76,Occitanie,31,Haute-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,44.0,67.76
+805,76,Occitanie,34,Hérault,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,17.0,21.77
+806,76,Occitanie,48,Lozère,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.23399999999999999
+807,84,Auvergne-Rhône-Alpes,1,Ain,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+808,84,Auvergne-Rhône-Alpes,1,Ain,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],5.0,0.371
+809,84,Auvergne-Rhône-Alpes,1,Ain,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,18.0,32.051
+810,84,Auvergne-Rhône-Alpes,42,Loire,300,Hydraulique,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+811,84,Auvergne-Rhône-Alpes,43,Haute-Loire,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,27.0,14.253
+812,93,Provence-Alpes-Côte d'Azur,83,Var,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],9.0,1.449
+813,93,Provence-Alpes-Côte d'Azur,83,Var,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,3.0,3.418
+814,27,Bourgogne-Franche-Comté,58,Nièvre,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,3.18
+815,32,Hauts-de-France,80,Somme,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.2
+816,75,Nouvelle Aquitaine,40,Landes,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,7.0,32.596
+817,53,Bretagne,22,Côtes-d'Armor,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.1185
+818,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.15
+819,76,Occitanie,34,Hérault,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,5.0,15.325
+820,32,Hauts-de-France,60,Oise,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,6.534
+821,27,Bourgogne-Franche-Comté,89,Yonne,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+822,75,Nouvelle Aquitaine,16,Charente,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,2.0
+823,76,Occitanie,46,Lot,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,1.8
+824,28,Normandie,50,Manche,400,Bio énergie,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.0435
+825,28,Normandie,76,Seine-Maritime,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+826,32,Hauts-de-France,59,Nord,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],6.0,1.1640000000000001
+827,44,Grand-Est,8,Ardennes,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],2.0,0.39
+828,84,Auvergne-Rhône-Alpes,43,Haute-Loire,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.15
+829,44,Grand-Est,67,Bas-Rhin,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],2.0,0.45
+830,84,Auvergne-Rhône-Alpes,26,Drôme,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.195
+831,44,Grand-Est,68,Haut-Rhin,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,8.0
+832,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,20.73
+833,84,Auvergne-Rhône-Alpes,69,Rhône,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],3.0,0.56
+834,52,Pays de la Loire,72,Sarthe,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.075
+835,84,Auvergne-Rhône-Alpes,43,Haute-Loire,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,4.016
+836,76,Occitanie,30,Gard,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,11.97
+837,76,Occitanie,32,Gers,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.1
+838,76,Occitanie,65,Hautes-Pyrénées,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.19
+839,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,0.7449
+840,84,Auvergne-Rhône-Alpes,69,Rhône,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,8.1
+841,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,13.55
+842,75,Nouvelle Aquitaine,23,Creuse,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+843,75,Nouvelle Aquitaine,23,Creuse,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,4.401
+844,75,Nouvelle Aquitaine,33,Gironde,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+845,84,Auvergne-Rhône-Alpes,42,Loire,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,11.0,31.737
+846,76,Occitanie,32,Gers,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,1.1
+847,52,Pays de la Loire,72,Sarthe,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],1.0,0.2
+848,11,Île-de-France,95,Val-d'Oise,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],3.0,0.69
+849,24,Centre-Val de Loire,18,Cher,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],1.0,0.225
+850,44,Grand-Est,51,Marne,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+851,44,Grand-Est,54,Meurthe-et-Moselle,500,Cogénération,1,Injection totale,2020-06-30,b-]36;100],1.0,0.066
+852,27,Bourgogne-Franche-Comté,39,Jura,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,5.3
+853,27,Bourgogne-Franche-Comté,70,Haute-Saône,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+854,28,Normandie,27,Eure,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,7.0,16.95
+855,53,Bretagne,35,Ille-et-Vilaine,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+856,75,Nouvelle Aquitaine,24,Dordogne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,4.906000000000001
+857,44,Grand-Est,8,Ardennes,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,3.0,12.087
+858,75,Nouvelle Aquitaine,33,Gironde,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+859,75,Nouvelle Aquitaine,47,Lot-et-Garonne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,11.0,41.985
+860,84,Auvergne-Rhône-Alpes,43,Haute-Loire,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.95
+861,84,Auvergne-Rhône-Alpes,73,Savoie,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,17.858
+862,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,9.0,28.59
+863,76,Occitanie,81,Tarn,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+864,32,Hauts-de-France,59,Nord,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,2.0,5.772
+865,24,Centre-Val de Loire,41,Loir-et-Cher,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+866,27,Bourgogne-Franche-Comté,70,Haute-Saône,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+867,75,Nouvelle Aquitaine,19,Corrèze,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+868,44,Grand-Est,68,Haut-Rhin,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+869,84,Auvergne-Rhône-Alpes,69,Rhône,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+870,76,Occitanie,34,Hérault,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,4.0,25.02
+871,84,Auvergne-Rhône-Alpes,3,Allier,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+872,93,Provence-Alpes-Côte d'Azur,83,Var,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+873,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],308.0,0.806605
+874,24,Centre-Val de Loire,28,Eure-et-Loir,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1340.0,7.4486300000000005
+875,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.15
+876,28,Normandie,14,Calvados,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2274.0,9.56794
+877,11,Île-de-France,77,Seine-et-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,20.77
+878,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],233.0,43.828340000000004
+879,44,Grand-Est,10,Aube,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1195.0,5.942130000000001
+880,76,Occitanie,11,Aude,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.07400000000000001
+881,84,Auvergne-Rhône-Alpes,73,Savoie,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3593.0,14.28325
+882,84,Auvergne-Rhône-Alpes,38,Isère,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],3.0,0.15
+883,28,Normandie,76,Seine-Maritime,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],11.0,1.7248
+884,27,Bourgogne-Franche-Comté,39,Jura,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],7.0,1.158
+885,11,Île-de-France,94,Val-de-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],10.0,0.7555
+886,11,Île-de-France,95,Val-d'Oise,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],359.0,1.249
+887,44,Grand-Est,10,Aube,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],33.0,5.812869999999999
+888,24,Centre-Val de Loire,28,Eure-et-Loir,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],259.0,0.9223
+889,75,Nouvelle Aquitaine,40,Landes,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,65.0,418.2184
+890,24,Centre-Val de Loire,18,Cher,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.1678
+891,28,Normandie,76,Seine-Maritime,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],2.0,0.29
+892,24,Centre-Val de Loire,45,Loiret,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2437.0,9.71372
+893,53,Bretagne,29,Finistère,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.26
+894,76,Occitanie,46,Lot,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1501.0,10.419889999999999
+895,75,Nouvelle Aquitaine,87,Haute-Vienne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],457.0,1.6406599999999998
+896,84,Auvergne-Rhône-Alpes,69,Rhône,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1802.0,7.91293
+897,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],18.0,3.46124
+898,76,Occitanie,34,Hérault,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],2.0,0.424
+899,24,Centre-Val de Loire,37,Indre-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,2.0,14.93
+900,75,Nouvelle Aquitaine,23,Creuse,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],184.0,0.6584399999999999
+901,24,Centre-Val de Loire,41,Loir-et-Cher,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],22.0,4.2253
+902,24,Centre-Val de Loire,45,Loiret,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],22.0,3.9747
+903,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.09
+904,75,Nouvelle Aquitaine,40,Landes,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],336.0,0.70052
+905,27,Bourgogne-Franche-Comté,58,Nièvre,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.05
+906,53,Bretagne,35,Ille-et-Vilaine,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.18
+907,53,Bretagne,22,Côtes-d'Armor,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],5.0,0.389
+908,27,Bourgogne-Franche-Comté,89,Yonne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],9.0,1.538
+909,93,Provence-Alpes-Côte d'Azur,83,Var,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],8588.0,29.277420000000003
+910,28,Normandie,14,Calvados,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],466.0,1.8969999999999998
+911,28,Normandie,27,Eure,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],2.0,0.106
+912,44,Grand-Est,88,Vosges,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],2.0,0.462
+913,28,Normandie,61,Orne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],21.0,3.883
+914,84,Auvergne-Rhône-Alpes,38,Isère,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],2370.0,8.98115
+915,28,Normandie,76,Seine-Maritime,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],3.0,0.22
+916,32,Hauts-de-France,2,Aisne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],96.0,0.2596
+917,32,Hauts-de-France,60,Oise,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1357.0,4.94276
+918,32,Hauts-de-France,62,Pas-de-Calais,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],4.0,0.23673000000000002
+919,44,Grand-Est,88,Vosges,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],31.0,6.438
+920,84,Auvergne-Rhône-Alpes,3,Allier,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],107.0,0.27914
+921,44,Grand-Est,8,Ardennes,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],28.0,4.9538
+922,44,Grand-Est,51,Marne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],195.0,0.4675
+923,44,Grand-Est,8,Ardennes,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.544
+924,44,Grand-Est,54,Meurthe-et-Moselle,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],185.0,0.379556
+925,44,Grand-Est,55,Meuse,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,5.907
+926,44,Grand-Est,57,Moselle,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,8.0,10.068
+927,52,Pays de la Loire,53,Mayenne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],39.0,6.80828
+928,76,Occitanie,48,Lozère,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,1.625
+929,53,Bretagne,22,Côtes-d'Armor,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],4.0,0.24011
+930,53,Bretagne,29,Finistère,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,1.197
+931,76,Occitanie,66,Pyrénées-Orientales,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],104.0,20.14761
+932,76,Occitanie,12,Aveyron,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.2452
+933,75,Nouvelle Aquitaine,23,Creuse,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.09817000000000001
+934,75,Nouvelle Aquitaine,24,Dordogne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],178.0,15.31047
+935,75,Nouvelle Aquitaine,33,Gironde,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],454.0,1.22645
+936,75,Nouvelle Aquitaine,86,Vienne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],111.0,0.3935
+937,75,Nouvelle Aquitaine,86,Vienne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],30.0,0.09598
+938,75,Nouvelle Aquitaine,87,Haute-Vienne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],104.0,17.4833
+939,76,Occitanie,31,Haute-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],151.0,25.5258
+940,84,Auvergne-Rhône-Alpes,42,Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1452.0,5.84468
+941,76,Occitanie,32,Gers,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],163.0,30.5585
+942,76,Occitanie,32,Gers,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,19.0,61.747
+943,76,Occitanie,34,Hérault,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.2676
+944,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,33.0,158.595
+945,76,Occitanie,48,Lozère,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],49.0,8.58649
+946,76,Occitanie,81,Tarn,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],160.0,29.1117
+947,76,Occitanie,82,Tarn-et-Garonne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],3.0,0.25
+948,84,Auvergne-Rhône-Alpes,73,Savoie,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.45
+949,84,Auvergne-Rhône-Alpes,7,Ardèche,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,17.0,45.466
+950,84,Auvergne-Rhône-Alpes,38,Isère,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],108.0,8.47078
+951,84,Auvergne-Rhône-Alpes,42,Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,6.0,16.3588
+952,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],86.0,16.12286
+953,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.2
+954,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],341.0,28.172190000000004
+955,93,Provence-Alpes-Côte d'Azur,83,Var,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,64.0,260.2853
+956,93,Provence-Alpes-Côte d'Azur,83,Var,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+957,11,Île-de-France,91,Essonne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,6.0,53.2
+958,27,Bourgogne-Franche-Comté,58,Nièvre,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,5.0,49.65
+959,75,Nouvelle Aquitaine,86,Vienne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,4.0,48.0
+960,53,Bretagne,56,Morbihan,200,Eolien,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+961,27,Bourgogne-Franche-Comté,89,Yonne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,21.0,205.95
+962,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+963,75,Nouvelle Aquitaine,16,Charente,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,12.0,119.03200000000001
+964,32,Hauts-de-France,62,Pas-de-Calais,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],11.0,0.10800000000000001
+965,84,Auvergne-Rhône-Alpes,42,Loire,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+966,76,Occitanie,9,Ariège,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+967,53,Bretagne,35,Ille-et-Vilaine,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],10.0,0.0925
+968,44,Grand-Est,67,Bas-Rhin,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,3.0,26.0
+969,52,Pays de la Loire,53,Mayenne,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+970,53,Bretagne,22,Côtes-d'Armor,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+971,76,Occitanie,30,Gard,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,1.0,11.5
+972,76,Occitanie,31,Haute-Garonne,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+973,84,Auvergne-Rhône-Alpes,38,Isère,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,1.0,2.7
+974,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,3.0,18.05
+975,24,Centre-Val de Loire,28,Eure-et-Loir,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+976,84,Auvergne-Rhône-Alpes,3,Allier,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,9.0,12.449000000000002
+977,76,Occitanie,66,Pyrénées-Orientales,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.15
+978,27,Bourgogne-Franche-Comté,89,Yonne,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+979,27,Bourgogne-Franche-Comté,21,Côte-d'Or,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],3.0,0.52
+980,44,Grand-Est,52,Haute-Marne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,7.0,2.685
+981,32,Hauts-de-France,2,Aisne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],7.0,1.147
+982,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+983,44,Grand-Est,88,Vosges,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],12.0,1.071
+984,53,Bretagne,56,Morbihan,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.11699999999999999
+985,53,Bretagne,56,Morbihan,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+986,32,Hauts-de-France,62,Pas-de-Calais,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+987,44,Grand-Est,8,Ardennes,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.22399999999999998
+988,44,Grand-Est,54,Meurthe-et-Moselle,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,17.0,31.916
+989,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+990,76,Occitanie,48,Lozère,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.534
+991,52,Pays de la Loire,53,Mayenne,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+992,52,Pays de la Loire,53,Mayenne,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+993,52,Pays de la Loire,72,Sarthe,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,2.0,1.06
+994,76,Occitanie,9,Ariège,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],12.0,0.016
+995,53,Bretagne,56,Morbihan,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],2.0,0.382
+996,75,Nouvelle Aquitaine,47,Lot-et-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.728
+997,76,Occitanie,12,Aveyron,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+998,76,Occitanie,12,Aveyron,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],13.0,1.012
+999,76,Occitanie,12,Aveyron,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1000,84,Auvergne-Rhône-Alpes,43,Haute-Loire,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],11.0,1.95
+1001,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1002,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,22.0,40.992
+1003,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.624
+1004,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.17
+1005,27,Bourgogne-Franche-Comté,89,Yonne,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,0.835
+1006,11,Île-de-France,78,Yvelines,400,Bio énergie,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,1.3
+1007,11,Île-de-France,78,Yvelines,400,Bio énergie,2,Injection du surplus,2020-06-30,d-]250;...[,2.0,17.4
+1008,11,Île-de-France,91,Essonne,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.16
+1009,76,Occitanie,9,Ariège,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,4.819
+1010,11,Île-de-France,95,Val-d'Oise,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1011,11,Île-de-France,95,Val-d'Oise,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,6.0,41.136
+1012,28,Normandie,14,Calvados,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,3.563
+1013,24,Centre-Val de Loire,18,Cher,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],2.0,0.445
+1014,24,Centre-Val de Loire,41,Loir-et-Cher,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],2.0,0.45299999999999996
+1015,27,Bourgogne-Franche-Comté,39,Jura,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,0.9840000000000001
+1016,27,Bourgogne-Franche-Comté,70,Haute-Saône,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],2.0,0.5
+1017,44,Grand-Est,57,Moselle,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,10.0,14.708
+1018,27,Bourgogne-Franche-Comté,89,Yonne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,2.222
+1019,84,Auvergne-Rhône-Alpes,42,Loire,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,11.854000000000001
+1020,28,Normandie,50,Manche,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],2.0,0.45
+1021,76,Occitanie,82,Tarn-et-Garonne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,7.865
+1022,44,Grand-Est,8,Ardennes,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],13.0,3.095
+1023,44,Grand-Est,8,Ardennes,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,8.0,4.1530000000000005
+1024,44,Grand-Est,55,Meuse,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],7.0,1.54
+1025,44,Grand-Est,88,Vosges,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,18.0,29.81
+1026,53,Bretagne,29,Finistère,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,8.0,16.575
+1027,76,Occitanie,48,Lozère,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,7.5
+1028,52,Pays de la Loire,53,Mayenne,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1029,53,Bretagne,29,Finistère,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],13.0,2.66
+1030,53,Bretagne,35,Ille-et-Vilaine,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],4.0,0.2605
+1031,75,Nouvelle Aquitaine,24,Dordogne,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.05
+1032,76,Occitanie,12,Aveyron,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,0.8490000000000001
+1033,76,Occitanie,81,Tarn,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,3.675
+1034,76,Occitanie,32,Gers,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,1.942
+1035,76,Occitanie,46,Lot,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],2.0,0.319
+1036,84,Auvergne-Rhône-Alpes,15,Cantal,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.24
+1037,84,Auvergne-Rhône-Alpes,38,Isère,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],2.0,0.425
+1038,76,Occitanie,12,Aveyron,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,2.682
+1039,11,Île-de-France,77,Seine-et-Marne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,7.0,27.513
+1040,24,Centre-Val de Loire,18,Cher,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,5.202000000000001
+1041,84,Auvergne-Rhône-Alpes,42,Loire,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],1.0,0.145
+1042,24,Centre-Val de Loire,36,Indre,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,3.985
+1043,76,Occitanie,9,Ariège,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,1.14
+1044,32,Hauts-de-France,59,Nord,500,Cogénération,1,Injection totale,2020-06-30,b-]36;100],2.0,0.096
+1045,32,Hauts-de-France,59,Nord,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],2.0,0.47200000000000003
+1046,32,Hauts-de-France,60,Oise,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,5.0,18.185
+1047,32,Hauts-de-France,62,Pas-de-Calais,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1048,32,Hauts-de-France,62,Pas-de-Calais,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,18.0,65.281
+1049,76,Occitanie,30,Gard,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,5.0,24.982
+1050,44,Grand-Est,55,Meuse,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1051,76,Occitanie,34,Hérault,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,4.0,14.628
+1052,84,Auvergne-Rhône-Alpes,69,Rhône,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],2.0,0.48100000000000004
+1053,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1054,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,9.0,17.868
+1055,44,Grand-Est,68,Haut-Rhin,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,2.0,13.24
+1056,32,Hauts-de-France,60,Oise,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+1057,44,Grand-Est,55,Meuse,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,2.0,14.856
+1058,84,Auvergne-Rhône-Alpes,69,Rhône,600,Autres,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,0.4
+1059,52,Pays de la Loire,72,Sarthe,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1060,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,6.0,30.816
+1061,75,Nouvelle Aquitaine,40,Landes,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1062,75,Nouvelle Aquitaine,86,Vienne,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1063,84,Auvergne-Rhône-Alpes,38,Isère,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1064,76,Occitanie,12,Aveyron,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,32.0,33.4144
+1065,11,Île-de-France,75,Paris,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],2.0,0.326
+1066,11,Île-de-France,75,Paris,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],,
+1067,52,Pays de la Loire,49,Maine-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,15.0,19.618
+1068,11,Île-de-France,78,Yvelines,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,8.976
+1069,76,Occitanie,81,Tarn,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.31
+1070,27,Bourgogne-Franche-Comté,70,Haute-Saône,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],31.0,0.0887
+1071,11,Île-de-France,78,Yvelines,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],26.0,1.9528
+1072,11,Île-de-France,77,Seine-et-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],93.0,7.59685
+1073,76,Occitanie,65,Hautes-Pyrénées,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1505.0,7.8392100000000005
+1074,11,Île-de-France,78,Yvelines,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2219.0,7.90285
+1075,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],614.0,2.1779599999999997
+1076,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],177.0,0.51593
+1077,28,Normandie,61,Orne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.25
+1078,11,Île-de-France,92,Hauts-de-Seine,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],528.0,2.4119200000000003
+1079,11,Île-de-France,92,Hauts-de-Seine,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],19.0,0.1129
+1080,27,Bourgogne-Franche-Comté,25,Doubs,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],48.0,3.78306
+1081,11,Île-de-France,93,Seine-Saint-Denis,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],989.0,3.8595699999999997
+1082,11,Île-de-France,93,Seine-Saint-Denis,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.1204
+1083,24,Centre-Val de Loire,28,Eure-et-Loir,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,3.0,1.9069999999999998
+1084,32,Hauts-de-France,59,Nord,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],47.0,8.1709
+1085,11,Île-de-France,95,Val-d'Oise,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1686.0,5.35824
+1086,11,Île-de-France,95,Val-d'Oise,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],1.0,0.11800000000000001
+1087,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],34.0,5.8272
+1088,24,Centre-Val de Loire,28,Eure-et-Loir,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],119.0,9.9919
+1089,28,Normandie,50,Manche,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,9.368
+1090,44,Grand-Est,67,Bas-Rhin,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.084
+1091,24,Centre-Val de Loire,18,Cher,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,6.405
+1092,52,Pays de la Loire,85,Vendée,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],422.0,0.9890000000000001
+1093,24,Centre-Val de Loire,36,Indre,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],215.0,0.8909999999999999
+1094,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1591.0,5.78471
+1095,32,Hauts-de-France,80,Somme,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],89.0,0.19242
+1096,52,Pays de la Loire,53,Mayenne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3602.0,18.10859
+1097,24,Centre-Val de Loire,41,Loir-et-Cher,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],179.0,14.5227
+1098,24,Centre-Val de Loire,45,Loiret,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,2.0,5.32
+1099,28,Normandie,76,Seine-Maritime,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3452.0,15.659839999999999
+1100,93,Provence-Alpes-Côte d'Azur,83,Var,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1676.0,6.13514
+1101,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],68.0,11.96
+1102,27,Bourgogne-Franche-Comté,58,Nièvre,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1348.0,6.589580000000001
+1103,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],2.0,0.34
+1104,84,Auvergne-Rhône-Alpes,15,Cantal,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,12.0,68.01725
+1105,27,Bourgogne-Franche-Comté,58,Nièvre,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],55.0,0.1339
+1106,53,Bretagne,35,Ille-et-Vilaine,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],61.0,10.6205
+1107,44,Grand-Est,68,Haut-Rhin,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.358
+1108,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,11.0,23.084
+1109,28,Normandie,14,Calvados,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.07
+1110,52,Pays de la Loire,53,Mayenne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.1
+1111,28,Normandie,27,Eure,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.1932
+1112,28,Normandie,27,Eure,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],112.0,8.717
+1113,28,Normandie,27,Eure,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,2.0,13.404000000000002
+1114,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,2.0,1.224
+1115,44,Grand-Est,10,Aube,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],122.0,0.27258000000000004
+1116,28,Normandie,76,Seine-Maritime,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],583.0,2.14062
+1117,32,Hauts-de-France,62,Pas-de-Calais,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],42.0,3.0495099999999997
+1118,32,Hauts-de-France,62,Pas-de-Calais,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],5989.0,21.02384
+1119,53,Bretagne,35,Ille-et-Vilaine,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,9.0,8.163
+1120,32,Hauts-de-France,80,Somme,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,3.0,2.245
+1121,44,Grand-Est,68,Haut-Rhin,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],162.0,0.43128999999999995
+1122,52,Pays de la Loire,72,Sarthe,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],174.0,14.4748
+1123,75,Nouvelle Aquitaine,87,Haute-Vienne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,19.23
+1124,75,Nouvelle Aquitaine,33,Gironde,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],86.0,16.3331
+1125,44,Grand-Est,54,Meurthe-et-Moselle,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],29.0,5.35498
+1126,44,Grand-Est,57,Moselle,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],55.0,9.94314
+1127,76,Occitanie,66,Pyrénées-Orientales,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],913.0,82.24053
+1128,76,Occitanie,12,Aveyron,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],72.0,0.27213000000000004
+1129,76,Occitanie,48,Lozère,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],13.0,0.0349
+1130,44,Grand-Est,88,Vosges,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.4
+1131,84,Auvergne-Rhône-Alpes,42,Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],28.0,4.9205
+1132,52,Pays de la Loire,49,Maine-et-Loire,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],237.0,0.6267050000000001
+1133,52,Pays de la Loire,53,Mayenne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],41.0,0.17254
+1134,75,Nouvelle Aquitaine,24,Dordogne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3042.0,16.7304
+1135,76,Occitanie,46,Lot,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],77.0,12.7286
+1136,53,Bretagne,22,Côtes-d'Armor,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],287.0,1.0055
+1137,76,Occitanie,66,Pyrénées-Orientales,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.07
+1138,53,Bretagne,56,Morbihan,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,9.0,11.073
+1139,75,Nouvelle Aquitaine,16,Charente,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],200.0,0.29901
+1140,75,Nouvelle Aquitaine,17,Charente-Maritime,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],6451.0,27.76238
+1141,75,Nouvelle Aquitaine,17,Charente-Maritime,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],276.0,23.14174
+1142,75,Nouvelle Aquitaine,17,Charente-Maritime,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.0426
+1143,75,Nouvelle Aquitaine,24,Dordogne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,17.0,68.78399999999999
+1144,75,Nouvelle Aquitaine,33,Gironde,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1533.0,5.4785699999999995
+1145,76,Occitanie,82,Tarn-et-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],136.0,11.43201
+1146,84,Auvergne-Rhône-Alpes,38,Isère,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],45.0,7.9064
+1147,76,Occitanie,65,Hautes-Pyrénées,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],80.0,6.8773
+1148,76,Occitanie,66,Pyrénées-Orientales,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,56.0,140.04054
+1149,76,Occitanie,66,Pyrénées-Orientales,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.13
+1150,84,Auvergne-Rhône-Alpes,1,Ain,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1499.0,5.93545
+1151,84,Auvergne-Rhône-Alpes,3,Allier,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,18.0,94.96
+1152,84,Auvergne-Rhône-Alpes,7,Ardèche,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],3855.0,18.98074
+1153,84,Auvergne-Rhône-Alpes,38,Isère,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],363.0,0.9014200000000001
+1154,84,Auvergne-Rhône-Alpes,43,Haute-Loire,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],51.0,0.14227
+1155,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],269.0,22.30176
+1156,84,Auvergne-Rhône-Alpes,69,Rhône,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.09
+1157,84,Auvergne-Rhône-Alpes,69,Rhône,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,0.44
+1158,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1049.0,4.3306
+1159,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],264.0,1.0433
+1160,32,Hauts-de-France,59,Nord,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,30.0,281.69
+1161,32,Hauts-de-France,60,Oise,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1162,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,2.0,9.6
+1163,75,Nouvelle Aquitaine,23,Creuse,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,5.0,59.0
+1164,53,Bretagne,29,Finistère,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,35.0,222.95
+1165,44,Grand-Est,10,Aube,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1166,76,Occitanie,11,Aude,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,46.0,378.385
+1167,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,1.0,12.0
+1168,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1169,44,Grand-Est,88,Vosges,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,6.0,63.25
+1170,75,Nouvelle Aquitaine,16,Charente,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1171,32,Hauts-de-France,80,Somme,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,141.0,1426.60347
+1172,44,Grand-Est,52,Haute-Marne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,31.0,337.0
+1173,75,Nouvelle Aquitaine,17,Charente-Maritime,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,22.0,205.85
+1174,52,Pays de la Loire,72,Sarthe,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,7.0,62.0
+1175,52,Pays de la Loire,85,Vendée,200,Eolien,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1176,76,Occitanie,12,Aveyron,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,23.0,196.91
+1177,76,Occitanie,30,Gard,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1178,76,Occitanie,46,Lot,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1179,84,Auvergne-Rhône-Alpes,38,Isère,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1180,11,Île-de-France,77,Seine-et-Marne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,4.0,9.698
+1181,11,Île-de-France,78,Yvelines,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,1.0,9.7
+1182,52,Pays de la Loire,53,Mayenne,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.09
+1183,24,Centre-Val de Loire,36,Indre,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,4.0,18.08
+1184,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],3.0,0.479
+1185,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.586
+1186,27,Bourgogne-Franche-Comté,25,Doubs,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1187,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],17.0,3.173
+1188,52,Pays de la Loire,49,Maine-et-Loire,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1189,27,Bourgogne-Franche-Comté,39,Jura,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],10.0,0.14400000000000002
+1190,27,Bourgogne-Franche-Comté,21,Côte-d'Or,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],9.0,0.597
+1191,27,Bourgogne-Franche-Comté,21,Côte-d'Or,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1192,84,Auvergne-Rhône-Alpes,69,Rhône,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.18
+1193,27,Bourgogne-Franche-Comté,39,Jura,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],6.0,0.475
+1194,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1195,53,Bretagne,35,Ille-et-Vilaine,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1196,52,Pays de la Loire,85,Vendée,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1197,75,Nouvelle Aquitaine,87,Haute-Vienne,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.145
+1198,27,Bourgogne-Franche-Comté,89,Yonne,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1199,75,Nouvelle Aquitaine,86,Vienne,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],2.0,0.41
+1200,32,Hauts-de-France,80,Somme,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1201,28,Normandie,14,Calvados,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1202,76,Occitanie,66,Pyrénées-Orientales,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.055
+1203,32,Hauts-de-France,62,Pas-de-Calais,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],2.0,0.31
+1204,44,Grand-Est,8,Ardennes,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],6.0,1.041
+1205,44,Grand-Est,51,Marne,300,Hydraulique,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1206,44,Grand-Est,55,Meuse,300,Hydraulique,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.39
+1207,44,Grand-Est,67,Bas-Rhin,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1208,44,Grand-Est,68,Haut-Rhin,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],7.0,1.1320000000000001
+1209,52,Pays de la Loire,44,Loire-Atlantique,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1210,52,Pays de la Loire,53,Mayenne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,7.0,2.92
+1211,84,Auvergne-Rhône-Alpes,42,Loire,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],9.0,1.635
+1212,84,Auvergne-Rhône-Alpes,26,Drôme,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],5.0,0.9
+1213,75,Nouvelle Aquitaine,23,Creuse,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],6.0,1.189
+1214,75,Nouvelle Aquitaine,33,Gironde,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1215,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.158
+1216,75,Nouvelle Aquitaine,40,Landes,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.115
+1217,75,Nouvelle Aquitaine,87,Haute-Vienne,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1218,76,Occitanie,11,Aude,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],6.0,1.274
+1219,76,Occitanie,31,Haute-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1220,76,Occitanie,34,Hérault,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],3.0,0.57
+1221,76,Occitanie,46,Lot,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1222,76,Occitanie,46,Lot,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],5.0,0.838
+1223,76,Occitanie,82,Tarn-et-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1224,84,Auvergne-Rhône-Alpes,3,Allier,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1225,84,Auvergne-Rhône-Alpes,38,Isère,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,43.0,76.52600000000001
+1226,84,Auvergne-Rhône-Alpes,43,Haute-Loire,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],10.0,0.2305
+1227,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,22.0,17.729
+1228,44,Grand-Est,52,Haute-Marne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,8.0,8.9076
+1229,11,Île-de-France,78,Yvelines,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,12.065999999999999
+1230,28,Normandie,76,Seine-Maritime,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,3.556
+1231,53,Bretagne,35,Ille-et-Vilaine,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],14.0,2.7119999999999997
+1232,75,Nouvelle Aquitaine,79,Deux-Sèvres,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.49
+1233,24,Centre-Val de Loire,28,Eure-et-Loir,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,8.4
+1234,84,Auvergne-Rhône-Alpes,38,Isère,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,8.0,36.426
+1235,24,Centre-Val de Loire,37,Indre-et-Loire,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.15
+1236,28,Normandie,61,Orne,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],8.0,1.787
+1237,24,Centre-Val de Loire,41,Loir-et-Cher,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,7.165
+1238,75,Nouvelle Aquitaine,23,Creuse,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.22
+1239,44,Grand-Est,51,Marne,400,Bio énergie,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,1.9
+1240,28,Normandie,14,Calvados,400,Bio énergie,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.087
+1241,24,Centre-Val de Loire,45,Loiret,400,Bio énergie,2,Injection du surplus,2020-06-30,a-]0;36],,
+1242,53,Bretagne,29,Finistère,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1243,24,Centre-Val de Loire,45,Loiret,400,Bio énergie,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,6.5
+1244,84,Auvergne-Rhône-Alpes,1,Ain,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1245,84,Auvergne-Rhône-Alpes,38,Isère,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.08
+1246,28,Normandie,61,Orne,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],19.0,4.159
+1247,27,Bourgogne-Franche-Comté,89,Yonne,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.1389
+1248,28,Normandie,27,Eure,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.075
+1249,28,Normandie,61,Orne,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.0435
+1250,28,Normandie,61,Orne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,3.05
+1251,32,Hauts-de-France,59,Nord,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,11.0,38.795
+1252,44,Grand-Est,54,Meurthe-et-Moselle,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,12.0,13.514000000000001
+1253,44,Grand-Est,10,Aube,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.19
+1254,44,Grand-Est,51,Marne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,6.0,11.9245
+1255,84,Auvergne-Rhône-Alpes,3,Allier,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],2.0,0.41
+1256,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,8.967
+1257,52,Pays de la Loire,49,Maine-et-Loire,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,8.0,22.439
+1258,75,Nouvelle Aquitaine,24,Dordogne,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],3.0,0.67
+1259,75,Nouvelle Aquitaine,33,Gironde,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,7.0,16.045
+1260,75,Nouvelle Aquitaine,40,Landes,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1261,76,Occitanie,11,Aude,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,2.21
+1262,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1263,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,13.945
+1264,11,Île-de-France,91,Essonne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,12.0,55.015
+1265,11,Île-de-France,92,Hauts-de-Seine,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1266,11,Île-de-France,92,Hauts-de-Seine,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],1.0,0.11
+1267,11,Île-de-France,93,Seine-Saint-Denis,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1268,11,Île-de-France,93,Seine-Saint-Denis,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,11.0,67.992
+1269,11,Île-de-France,94,Val-de-Marne,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1270,11,Île-de-France,94,Val-de-Marne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,13.0,58.663999999999994
+1271,27,Bourgogne-Franche-Comté,58,Nièvre,500,Cogénération,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.7
+1272,27,Bourgogne-Franche-Comté,89,Yonne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,7.555
+1273,44,Grand-Est,10,Aube,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1274,28,Normandie,76,Seine-Maritime,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],1.0,0.2
+1275,44,Grand-Est,10,Aube,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,6.0,21.243000000000002
+1276,28,Normandie,27,Eure,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1277,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,6.0,31.3
+1278,28,Normandie,76,Seine-Maritime,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,19.0,76.92399999999999
+1279,53,Bretagne,22,Côtes-d'Armor,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1280,44,Grand-Est,52,Haute-Marne,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1281,44,Grand-Est,52,Haute-Marne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,5.0,20.232
+1282,53,Bretagne,29,Finistère,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1283,44,Grand-Est,88,Vosges,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1284,76,Occitanie,81,Tarn,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,10.42
+1285,84,Auvergne-Rhône-Alpes,43,Haute-Loire,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1286,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1287,93,Provence-Alpes-Côte d'Azur,83,Var,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1288,76,Occitanie,66,Pyrénées-Orientales,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.605
+1289,11,Île-de-France,93,Seine-Saint-Denis,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+1290,53,Bretagne,22,Côtes-d'Armor,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+1291,75,Nouvelle Aquitaine,40,Landes,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,3.0,20.803
+1292,27,Bourgogne-Franche-Comté,89,Yonne,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+1293,32,Hauts-de-France,62,Pas-de-Calais,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,4.0,15.466
+1294,53,Bretagne,29,Finistère,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1295,44,Grand-Est,57,Moselle,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,3.0,20.874000000000002
+1296,75,Nouvelle Aquitaine,17,Charente-Maritime,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,3.0,12.64
+1297,75,Nouvelle Aquitaine,16,Charente,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1298,76,Occitanie,65,Hautes-Pyrénées,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.0
+1299,76,Occitanie,82,Tarn-et-Garonne,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.62
+1300,84,Auvergne-Rhône-Alpes,69,Rhône,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,2.0,11.5
+1301,11,Île-de-France,75,Paris,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,1.2548
+1302,11,Île-de-France,92,Hauts-de-Seine,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],11.0,0.79661
+1303,84,Auvergne-Rhône-Alpes,42,Loire,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.056429999999999994
+1304,11,Île-de-France,78,Yvelines,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],3.0,0.18288
+1305,11,Île-de-France,78,Yvelines,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,1.9140000000000001
+1306,75,Nouvelle Aquitaine,33,Gironde,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],3.0,0.7003
+1307,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],878.0,3.4943
+1308,28,Normandie,14,Calvados,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.08
+1309,11,Île-de-France,93,Seine-Saint-Denis,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],13.0,1.00499
+1310,75,Nouvelle Aquitaine,40,Landes,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.242
+1311,75,Nouvelle Aquitaine,47,Lot-et-Garonne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.0998
+1312,27,Bourgogne-Franche-Comté,25,Doubs,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,2.0,1.6909999999999998
+1313,44,Grand-Est,51,Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],237.0,19.23028
+1314,24,Centre-Val de Loire,18,Cher,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],432.0,1.6678400000000002
+1315,27,Bourgogne-Franche-Comté,21,Côte-d'Or,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],224.0,18.081
+1316,11,Île-de-France,94,Val-de-Marne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],42.0,0.1557
+1317,52,Pays de la Loire,44,Loire-Atlantique,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1446.0,5.6559800000000005
+1318,11,Île-de-France,95,Val-d'Oise,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],160.0,0.25923
+1319,24,Centre-Val de Loire,18,Cher,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,5.0,7.349
+1320,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1590.0,9.39301
+1321,76,Occitanie,46,Lot,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],178.0,14.3049
+1322,24,Centre-Val de Loire,36,Indre,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1425.0,6.820760000000001
+1323,24,Centre-Val de Loire,37,Indre-et-Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.1325
+1324,75,Nouvelle Aquitaine,17,Charente-Maritime,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.17300000000000001
+1325,32,Hauts-de-France,2,Aisne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],21.0,3.9862
+1326,24,Centre-Val de Loire,37,Indre-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2821.0,11.625680000000001
+1327,44,Grand-Est,51,Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,7.0,10.485999999999999
+1328,24,Centre-Val de Loire,41,Loir-et-Cher,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],231.0,0.8812
+1329,27,Bourgogne-Franche-Comté,21,Côte-d'Or,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],750.0,2.7253
+1330,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],75.0,0.23639000000000002
+1331,52,Pays de la Loire,49,Maine-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],8105.0,42.04395
+1332,28,Normandie,27,Eure,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],117.0,0.35118
+1333,32,Hauts-de-France,62,Pas-de-Calais,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],146.0,0.35100000000000003
+1334,44,Grand-Est,67,Bas-Rhin,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.7909999999999999
+1335,52,Pays de la Loire,85,Vendée,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.13996
+1336,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],172.0,33.06116
+1337,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],800.0,2.5857
+1338,44,Grand-Est,8,Ardennes,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],47.0,0.1051
+1339,28,Normandie,76,Seine-Maritime,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,18.798
+1340,28,Normandie,76,Seine-Maritime,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.1068
+1341,32,Hauts-de-France,60,Oise,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],421.0,1.5388
+1342,84,Auvergne-Rhône-Alpes,42,Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],6580.0,27.676909999999996
+1343,32,Hauts-de-France,62,Pas-de-Calais,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,3.0,1.127
+1344,32,Hauts-de-France,80,Somme,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],337.0,1.1681
+1345,44,Grand-Est,8,Ardennes,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.184
+1346,44,Grand-Est,10,Aube,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],2.0,0.16
+1347,44,Grand-Est,55,Meuse,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.08
+1348,44,Grand-Est,67,Bas-Rhin,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],50.0,9.57263
+1349,44,Grand-Est,57,Moselle,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],5270.0,18.7314
+1350,75,Nouvelle Aquitaine,23,Creuse,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1162.0,5.8113
+1351,75,Nouvelle Aquitaine,87,Haute-Vienne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],212.0,18.511029999999998
+1352,44,Grand-Est,67,Bas-Rhin,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],60.0,4.8619699999999995
+1353,75,Nouvelle Aquitaine,23,Creuse,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],75.0,0.15117
+1354,52,Pays de la Loire,49,Maine-et-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],115.0,20.15585
+1355,52,Pays de la Loire,49,Maine-et-Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],732.0,2.8839200000000003
+1356,84,Auvergne-Rhône-Alpes,69,Rhône,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],7416.0,29.87605
+1357,75,Nouvelle Aquitaine,16,Charente,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],131.0,23.6422
+1358,75,Nouvelle Aquitaine,33,Gironde,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],3.0,0.16
+1359,52,Pays de la Loire,85,Vendée,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],202.0,37.378440000000005
+1360,53,Bretagne,29,Finistère,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.461
+1361,53,Bretagne,29,Finistère,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],213.0,17.01115
+1362,53,Bretagne,29,Finistère,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],364.0,1.6432200000000001
+1363,53,Bretagne,56,Morbihan,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],4557.0,21.15367
+1364,75,Nouvelle Aquitaine,23,Creuse,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,13.04
+1365,75,Nouvelle Aquitaine,33,Gironde,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],11.0,0.72245
+1366,75,Nouvelle Aquitaine,40,Landes,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],8.0,0.5576
+1367,75,Nouvelle Aquitaine,86,Vienne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,4.0,11.59532
+1368,76,Occitanie,9,Ariège,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],84.0,7.1255
+1369,76,Occitanie,12,Aveyron,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],359.0,66.68238000000001
+1370,76,Occitanie,30,Gard,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],1628.0,5.6746
+1371,76,Occitanie,32,Gers,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2656.0,17.2295
+1372,76,Occitanie,65,Hautes-Pyrénées,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],80.0,0.17697000000000002
+1373,76,Occitanie,66,Pyrénées-Orientales,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],141.0,0.3957
+1374,76,Occitanie,82,Tarn-et-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],104.0,19.115
+1375,84,Auvergne-Rhône-Alpes,1,Ain,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.04
+1376,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],198.0,15.97722
+1377,84,Auvergne-Rhône-Alpes,3,Allier,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],562.0,2.0693
+1378,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,15.0,44.62308
+1379,84,Auvergne-Rhône-Alpes,42,Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],3.0,0.17300000000000001
+1380,84,Auvergne-Rhône-Alpes,42,Loire,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],2.0,0.36
+1381,84,Auvergne-Rhône-Alpes,43,Haute-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],165.0,13.5733
+1382,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.45
+1383,84,Auvergne-Rhône-Alpes,69,Rhône,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],6.0,0.3513
+1384,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,100,Photovoltaïque,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.248
+1385,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],11102.0,41.139959999999995
+1386,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,114.0,253.7591
+1387,93,Provence-Alpes-Côte d'Azur,83,Var,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],2.0,0.35
+1388,11,Île-de-France,77,Seine-et-Marne,200,Eolien,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.132
+1389,28,Normandie,76,Seine-Maritime,200,Eolien,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1390,32,Hauts-de-France,59,Nord,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1391,75,Nouvelle Aquitaine,33,Gironde,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1392,24,Centre-Val de Loire,28,Eure-et-Loir,200,Eolien,1,Injection totale,2020-06-30,c-]100;250],1.0,0.25
+1393,24,Centre-Val de Loire,41,Loir-et-Cher,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1394,52,Pays de la Loire,49,Maine-et-Loire,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1395,52,Pays de la Loire,44,Loire-Atlantique,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1396,28,Normandie,14,Calvados,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,17.0,158.45976000000002
+1397,76,Occitanie,48,Lozère,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1398,75,Nouvelle Aquitaine,19,Corrèze,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,1.0,9.0
+1399,44,Grand-Est,52,Haute-Marne,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1400,52,Pays de la Loire,85,Vendée,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,28.0,262.505
+1401,44,Grand-Est,54,Meurthe-et-Moselle,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,16.0,130.31
+1402,53,Bretagne,35,Ille-et-Vilaine,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1403,44,Grand-Est,57,Moselle,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1404,44,Grand-Est,88,Vosges,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1405,75,Nouvelle Aquitaine,87,Haute-Vienne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,5.0,38.0
+1406,84,Auvergne-Rhône-Alpes,1,Ain,200,Eolien,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1407,84,Auvergne-Rhône-Alpes,3,Allier,200,Eolien,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1408,24,Centre-Val de Loire,37,Indre-et-Loire,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1409,27,Bourgogne-Franche-Comté,25,Doubs,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1410,53,Bretagne,35,Ille-et-Vilaine,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1411,28,Normandie,27,Eure,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],10.0,1.7369999999999999
+1412,53,Bretagne,56,Morbihan,300,Hydraulique,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1413,11,Île-de-France,91,Essonne,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1414,76,Occitanie,32,Gers,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.4
+1415,52,Pays de la Loire,72,Sarthe,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1416,27,Bourgogne-Franche-Comté,70,Haute-Saône,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],8.0,0.616
+1417,24,Centre-Val de Loire,18,Cher,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.69
+1418,28,Normandie,27,Eure,300,Hydraulique,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1419,75,Nouvelle Aquitaine,47,Lot-et-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.1
+1420,52,Pays de la Loire,44,Loire-Atlantique,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1421,24,Centre-Val de Loire,41,Loir-et-Cher,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1422,28,Normandie,50,Manche,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1423,44,Grand-Est,57,Moselle,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1424,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,2.0,2.2680000000000002
+1425,28,Normandie,14,Calvados,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,2.0,1.45
+1426,84,Auvergne-Rhône-Alpes,7,Ardèche,300,Hydraulique,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,0.425
+1427,28,Normandie,27,Eure,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1428,28,Normandie,50,Manche,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1429,32,Hauts-de-France,62,Pas-de-Calais,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],2.0,0.183
+1430,44,Grand-Est,55,Meuse,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,3.0,1.319
+1431,44,Grand-Est,67,Bas-Rhin,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],3.0,0.51
+1432,53,Bretagne,22,Côtes-d'Armor,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,4.0,4.783
+1433,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1434,75,Nouvelle Aquitaine,87,Haute-Vienne,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1435,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],1.0,0.12
+1436,76,Occitanie,9,Ariège,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],20.0,3.372
+1437,76,Occitanie,9,Ariège,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1438,76,Occitanie,48,Lozère,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1439,84,Auvergne-Rhône-Alpes,43,Haute-Loire,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],7.0,0.59
+1440,76,Occitanie,81,Tarn,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1441,84,Auvergne-Rhône-Alpes,15,Cantal,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,25.0,41.038000000000004
+1442,84,Auvergne-Rhône-Alpes,73,Savoie,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],16.0,0.057
+1443,93,Provence-Alpes-Côte d'Azur,83,Var,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1444,93,Provence-Alpes-Côte d'Azur,83,Var,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.06
+1445,28,Normandie,14,Calvados,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1446,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1447,11,Île-de-France,77,Seine-et-Marne,400,Bio énergie,2,Injection du surplus,2020-06-30,d-]250;...[,2.0,22.58
+1448,32,Hauts-de-France,62,Pas-de-Calais,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.24
+1449,24,Centre-Val de Loire,37,Indre-et-Loire,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],5.0,1.207
+1450,11,Île-de-France,91,Essonne,400,Bio énergie,2,Injection du surplus,2020-06-30,d-]250;...[,2.0,11.005
+1451,52,Pays de la Loire,49,Maine-et-Loire,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],3.0,0.177
+1452,84,Auvergne-Rhône-Alpes,1,Ain,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,11.8
+1453,24,Centre-Val de Loire,36,Indre,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.17
+1454,52,Pays de la Loire,72,Sarthe,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.5
+1455,75,Nouvelle Aquitaine,17,Charente-Maritime,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.249
+1456,27,Bourgogne-Franche-Comté,25,Doubs,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,0.7959999999999999
+1457,75,Nouvelle Aquitaine,87,Haute-Vienne,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.2
+1458,28,Normandie,14,Calvados,400,Bio énergie,2,Injection du surplus,2020-06-30,c-]100;250],1.0,0.25
+1459,32,Hauts-de-France,2,Aisne,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.0875
+1460,52,Pays de la Loire,53,Mayenne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,5.0,15.513
+1461,52,Pays de la Loire,44,Loire-Atlantique,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],3.0,0.55
+1462,32,Hauts-de-France,62,Pas-de-Calais,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1463,52,Pays de la Loire,72,Sarthe,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],7.0,1.643
+1464,44,Grand-Est,51,Marne,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],6.0,1.31815
+1465,44,Grand-Est,55,Meuse,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,2.0,1.087
+1466,44,Grand-Est,57,Moselle,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1467,44,Grand-Est,88,Vosges,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.08
+1468,52,Pays de la Loire,85,Vendée,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,9.0,9.7852
+1469,53,Bretagne,22,Côtes-d'Armor,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,13.0,14.921
+1470,75,Nouvelle Aquitaine,24,Dordogne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,6.0,3.8569999999999998
+1471,75,Nouvelle Aquitaine,87,Haute-Vienne,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],2.0,0.4
+1472,75,Nouvelle Aquitaine,87,Haute-Vienne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,5.0,12.92
+1473,76,Occitanie,82,Tarn-et-Garonne,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.1
+1474,76,Occitanie,66,Pyrénées-Orientales,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.835
+1475,76,Occitanie,81,Tarn,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.16
+1476,53,Bretagne,56,Morbihan,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1477,76,Occitanie,34,Hérault,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,1.068
+1478,11,Île-de-France,95,Val-d'Oise,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,7.0,26.55
+1479,75,Nouvelle Aquitaine,17,Charente-Maritime,500,Cogénération,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.08
+1480,52,Pays de la Loire,44,Loire-Atlantique,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,60.0,217.09900000000002
+1481,27,Bourgogne-Franche-Comté,90,Territoire-de-Belfort,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1482,28,Normandie,14,Calvados,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,8.0,21.432
+1483,44,Grand-Est,54,Meurthe-et-Moselle,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,10.0,32.684
+1484,75,Nouvelle Aquitaine,16,Charente,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,8.691
+1485,75,Nouvelle Aquitaine,87,Haute-Vienne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,3.0,11.035
+1486,75,Nouvelle Aquitaine,33,Gironde,500,Cogénération,1,Injection totale,2020-06-30,c-]100;250],1.0,0.235
+1487,75,Nouvelle Aquitaine,33,Gironde,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,18.0,55.604
+1488,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1489,11,Île-de-France,94,Val-de-Marne,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+1490,24,Centre-Val de Loire,28,Eure-et-Loir,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1491,76,Occitanie,12,Aveyron,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.84
+1492,75,Nouvelle Aquitaine,33,Gironde,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+1493,27,Bourgogne-Franche-Comté,89,Yonne,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,3.0,20.312
+1494,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.62
+1495,32,Hauts-de-France,62,Pas-de-Calais,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1496,44,Grand-Est,10,Aube,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,14.0
+1497,76,Occitanie,11,Aude,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,2.0,14.248
+1498,76,Occitanie,31,Haute-Garonne,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,3.0,12.6
+1499,53,Bretagne,56,Morbihan,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,4.0,23.248
+1500,76,Occitanie,81,Tarn,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+1501,75,Nouvelle Aquitaine,23,Creuse,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.85
+1502,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,2.0,14.855
+1503,76,Occitanie,9,Ariège,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.86
+1504,76,Occitanie,12,Aveyron,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1505,84,Auvergne-Rhône-Alpes,69,Rhône,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1506,84,Auvergne-Rhône-Alpes,42,Loire,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,2.0,12.565
+1507,11,Île-de-France,92,Hauts-de-Seine,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],49.0,0.1744
+1508,11,Île-de-France,75,Paris,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.0776
+1509,84,Auvergne-Rhône-Alpes,38,Isère,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],10486.0,40.85855
+1510,11,Île-de-France,91,Essonne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],118.0,0.34942
+1511,53,Bretagne,29,Finistère,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],2.0,0.36125999999999997
+1512,75,Nouvelle Aquitaine,40,Landes,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],6904.0,36.82141
+1513,11,Île-de-France,78,Yvelines,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],464.0,1.62905
+1514,32,Hauts-de-France,62,Pas-de-Calais,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],24.0,4.2678
+1515,11,Île-de-France,93,Seine-Saint-Denis,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],50.0,0.16595
+1516,84,Auvergne-Rhône-Alpes,43,Haute-Loire,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2692.0,14.75273
+1517,75,Nouvelle Aquitaine,17,Charente-Maritime,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,23.0,86.47758
+1518,11,Île-de-France,92,Hauts-de-Seine,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,2.0,0.8420000000000001
+1519,76,Occitanie,34,Hérault,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.18
+1520,24,Centre-Val de Loire,28,Eure-et-Loir,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.075
+1521,24,Centre-Val de Loire,45,Loiret,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],91.0,0.21447
+1522,76,Occitanie,31,Haute-Garonne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],1371.0,1.515925
+1523,11,Île-de-France,94,Val-de-Marne,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,1.8259999999999998
+1524,84,Auvergne-Rhône-Alpes,38,Isère,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,12.0,35.0374
+1525,11,Île-de-France,95,Val-d'Oise,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.7559999999999999
+1526,84,Auvergne-Rhône-Alpes,26,Drôme,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],147.0,27.19557
+1527,76,Occitanie,31,Haute-Garonne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.2405
+1528,24,Centre-Val de Loire,28,Eure-et-Loir,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],69.0,0.21355
+1529,44,Grand-Est,51,Marne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.6
+1530,28,Normandie,50,Manche,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],29.0,5.5188
+1531,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],19.0,1.46557
+1532,75,Nouvelle Aquitaine,16,Charente,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],3.0,0.2042
+1533,84,Auvergne-Rhône-Alpes,7,Ardèche,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,0.42601000000000006
+1534,28,Normandie,76,Seine-Maritime,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],52.0,4.042
+1535,27,Bourgogne-Franche-Comté,25,Doubs,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],100.0,0.28336999999999996
+1536,52,Pays de la Loire,44,Loire-Atlantique,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],572.0,1.228045
+1537,28,Normandie,50,Manche,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],154.0,0.46066999999999997
+1538,24,Centre-Val de Loire,45,Loiret,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],498.0,1.7331299999999998
+1539,44,Grand-Est,10,Aube,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],98.0,8.10295
+1540,84,Auvergne-Rhône-Alpes,73,Savoie,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],5.0,0.762
+1541,27,Bourgogne-Franche-Comté,39,Jura,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2112.0,9.047830000000001
+1542,28,Normandie,14,Calvados,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.2
+1543,52,Pays de la Loire,72,Sarthe,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,8.0,16.199
+1544,76,Occitanie,34,Hérault,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],405.0,34.152770000000004
+1545,32,Hauts-de-France,2,Aisne,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],62.0,5.31494
+1546,27,Bourgogne-Franche-Comté,70,Haute-Saône,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],10.0,1.8148
+1547,84,Auvergne-Rhône-Alpes,7,Ardèche,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.037000000000000005
+1548,76,Occitanie,46,Lot,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,b-]36;100],1.0,0.1
+1549,27,Bourgogne-Franche-Comté,89,Yonne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],415.0,1.4879
+1550,28,Normandie,14,Calvados,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],15.0,2.7306
+1551,28,Normandie,14,Calvados,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],140.0,0.49411000000000005
+1552,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],493.0,1.8108
+1553,53,Bretagne,56,Morbihan,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],183.0,0.80924
+1554,32,Hauts-de-France,2,Aisne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1739.0,6.69614
+1555,84,Auvergne-Rhône-Alpes,15,Cantal,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],194.0,35.7923
+1556,28,Normandie,61,Orne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],239.0,1.0684200000000001
+1557,93,Provence-Alpes-Côte d'Azur,83,Var,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],436.0,1.18969
+1558,84,Auvergne-Rhône-Alpes,26,Drôme,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],5225.0,27.21508
+1559,52,Pays de la Loire,44,Loire-Atlantique,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],130.0,23.83227
+1560,75,Nouvelle Aquitaine,47,Lot-et-Garonne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,c-]100;250],1.0,0.1328
+1561,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.045
+1562,44,Grand-Est,57,Moselle,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],630.0,2.3386
+1563,44,Grand-Est,68,Haut-Rhin,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],60.0,10.37699
+1564,75,Nouvelle Aquitaine,47,Lot-et-Garonne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],951.0,3.70705
+1565,75,Nouvelle Aquitaine,47,Lot-et-Garonne,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],130.0,0.37399
+1566,76,Occitanie,12,Aveyron,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],614.0,51.381479999999996
+1567,53,Bretagne,35,Ille-et-Vilaine,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],379.0,31.76193
+1568,53,Bretagne,56,Morbihan,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],477.0,1.9253200000000001
+1569,53,Bretagne,56,Morbihan,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],7.0,0.4898
+1570,75,Nouvelle Aquitaine,16,Charente,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],275.0,23.41706
+1571,75,Nouvelle Aquitaine,86,Vienne,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.075
+1572,76,Occitanie,9,Ariège,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1563.0,11.67459
+1573,76,Occitanie,11,Aude,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],111.0,19.65392
+1574,76,Occitanie,9,Ariège,100,Photovoltaïque,2,Injection du surplus,2020-06-30,a-]0;36],259.0,0.96654
+1575,76,Occitanie,11,Aude,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],4044.0,20.1009
+1576,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,0.66
+1577,76,Occitanie,32,Gers,100,Photovoltaïque,1,Injection totale,2020-06-30,b-]36;100],392.0,33.965309999999995
+1578,76,Occitanie,34,Hérault,100,Photovoltaïque,1,Injection totale,2020-06-30,c-]100;250],174.0,33.852540000000005
+1579,76,Occitanie,34,Hérault,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],381.0,0.9057299999999999
+1580,76,Occitanie,81,Tarn,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],4237.0,25.3623
+1581,76,Occitanie,81,Tarn,100,Photovoltaïque,1,Injection totale,2020-06-30,d-]250;...[,40.0,84.99700000000001
+1582,84,Auvergne-Rhône-Alpes,1,Ain,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],135.0,0.37901
+1583,76,Occitanie,82,Tarn-et-Garonne,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],2417.0,13.954720000000002
+1584,84,Auvergne-Rhône-Alpes,1,Ain,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],5066.0,19.75535
+1585,84,Auvergne-Rhône-Alpes,3,Allier,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.04
+1586,84,Auvergne-Rhône-Alpes,7,Ardèche,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],97.0,0.2307
+1587,84,Auvergne-Rhône-Alpes,15,Cantal,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],1332.0,10.48703
+1588,84,Auvergne-Rhône-Alpes,38,Isère,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],4.0,0.24736
+1589,84,Auvergne-Rhône-Alpes,73,Savoie,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],137.0,0.37313
+1590,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],4923.0,17.776239999999998
+1591,84,Auvergne-Rhône-Alpes,74,Haute-Savoie,100,Photovoltaïque,3,Autoconsommation sans injection,2020-06-30,a-]0;36],125.0,0.493095
+1592,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,100,Photovoltaïque,2,Injection du surplus,2020-06-30,b-]36;100],3.0,0.24468
+1593,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,100,Photovoltaïque,1,Injection totale,2020-06-30,a-]0;36],5136.0,22.07674
+1594,28,Normandie,61,Orne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,5.0,44.95
+1595,32,Hauts-de-France,80,Somme,200,Eolien,1,Injection totale,2020-06-30,c-]100;250],1.0,0.24948
+1596,28,Normandie,50,Manche,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,20.0,131.876
+1597,11,Île-de-France,77,Seine-et-Marne,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,3.0,36.0
+1598,11,Île-de-France,78,Yvelines,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1599,24,Centre-Val de Loire,18,Cher,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1600,24,Centre-Val de Loire,28,Eure-et-Loir,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,41.0,416.421
+1601,44,Grand-Est,8,Ardennes,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1602,24,Centre-Val de Loire,41,Loir-et-Cher,200,Eolien,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1603,76,Occitanie,12,Aveyron,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1604,27,Bourgogne-Franche-Comté,39,Jura,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,2.0,18.0
+1605,44,Grand-Est,55,Meuse,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,47.0,488.73
+1606,44,Grand-Est,57,Moselle,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,28.0,281.4
+1607,44,Grand-Est,54,Meurthe-et-Moselle,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1608,84,Auvergne-Rhône-Alpes,43,Haute-Loire,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,7.0,69.0
+1609,84,Auvergne-Rhône-Alpes,1,Ain,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1610,44,Grand-Est,8,Ardennes,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,49.0,490.069
+1611,93,Provence-Alpes-Côte d'Azur,83,Var,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1612,44,Grand-Est,10,Aube,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,77.0,777.15
+1613,52,Pays de la Loire,44,Loire-Atlantique,200,Eolien,1,Injection totale,2020-06-30,d-]250;...[,43.0,400.88
+1614,76,Occitanie,11,Aude,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1615,84,Auvergne-Rhône-Alpes,26,Drôme,200,Eolien,2,Injection du surplus,2020-06-30,a-]0;36],,
+1616,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,200,Eolien,1,Injection totale,2020-06-30,a-]0;36],,
+1617,76,Occitanie,34,Hérault,300,Hydraulique,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1618,76,Occitanie,65,Hautes-Pyrénées,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],12.0,2.013
+1619,27,Bourgogne-Franche-Comté,58,Nièvre,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.075
+1620,84,Auvergne-Rhône-Alpes,69,Rhône,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,7.0,75.988
+1621,32,Hauts-de-France,2,Aisne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,2.0,1.93
+1622,76,Occitanie,11,Aude,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.05
+1623,53,Bretagne,22,Côtes-d'Armor,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],1.0,0.045
+1624,24,Centre-Val de Loire,41,Loir-et-Cher,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1625,24,Centre-Val de Loire,18,Cher,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.3
+1626,84,Auvergne-Rhône-Alpes,26,Drôme,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],8.0,0.613
+1627,75,Nouvelle Aquitaine,33,Gironde,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],2.0,0.499
+1628,24,Centre-Val de Loire,41,Loir-et-Cher,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.555
+1629,44,Grand-Est,8,Ardennes,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,14.0,11.014000000000001
+1630,27,Bourgogne-Franche-Comté,25,Doubs,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.24
+1631,84,Auvergne-Rhône-Alpes,7,Ardèche,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],14.0,2.676
+1632,27,Bourgogne-Franche-Comté,58,Nièvre,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,3.0,5.917000000000001
+1633,28,Normandie,61,Orne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,2.0,6.88
+1634,53,Bretagne,22,Côtes-d'Armor,300,Hydraulique,2,Injection du surplus,2020-06-30,a-]0;36],,
+1635,28,Normandie,27,Eure,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],8.0,0.626
+1636,44,Grand-Est,55,Meuse,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],5.0,0.406
+1637,44,Grand-Est,8,Ardennes,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1638,44,Grand-Est,52,Haute-Marne,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1639,76,Occitanie,82,Tarn-et-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,18.0,16.054000000000002
+1640,44,Grand-Est,55,Meuse,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],11.0,1.765
+1641,44,Grand-Est,57,Moselle,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],4.0,0.735
+1642,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],6.0,1.242
+1643,44,Grand-Est,68,Haut-Rhin,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1644,44,Grand-Est,88,Vosges,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],48.0,8.392999999999999
+1645,76,Occitanie,65,Hautes-Pyrénées,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,41.0,45.78
+1646,84,Auvergne-Rhône-Alpes,38,Isère,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],18.0,3.404
+1647,53,Bretagne,56,Morbihan,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,11.0,4.45
+1648,84,Auvergne-Rhône-Alpes,26,Drôme,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1649,75,Nouvelle Aquitaine,23,Creuse,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.20800000000000002
+1650,75,Nouvelle Aquitaine,86,Vienne,300,Hydraulique,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1651,76,Occitanie,12,Aveyron,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],16.0,2.839
+1652,76,Occitanie,31,Haute-Garonne,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],3.0,0.259
+1653,76,Occitanie,32,Gers,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],6.0,0.435
+1654,76,Occitanie,34,Hérault,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1655,76,Occitanie,81,Tarn,300,Hydraulique,1,Injection totale,2020-06-30,c-]100;250],26.0,4.728
+1656,84,Auvergne-Rhône-Alpes,7,Ardèche,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],16.0,1.242
+1657,84,Auvergne-Rhône-Alpes,15,Cantal,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1658,84,Auvergne-Rhône-Alpes,38,Isère,300,Hydraulique,3,Autoconsommation sans injection,2020-06-30,a-]0;36],,
+1659,84,Auvergne-Rhône-Alpes,42,Loire,300,Hydraulique,1,Injection totale,2020-06-30,b-]36;100],6.0,0.479
+1660,93,Provence-Alpes-Côte d'Azur,4,Alpes-de-Haute-Provence,300,Hydraulique,1,Injection totale,2020-06-30,a-]0;36],,
+1661,93,Provence-Alpes-Côte d'Azur,13,Bouches-du-Rhône,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,9.0,7.449
+1662,93,Provence-Alpes-Côte d'Azur,84,Vaucluse,300,Hydraulique,1,Injection totale,2020-06-30,d-]250;...[,4.0,1.7
+1663,53,Bretagne,35,Ille-et-Vilaine,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,9.0,24.365
+1664,93,Provence-Alpes-Côte d'Azur,5,Hautes-Alpes,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,1.696
+1665,27,Bourgogne-Franche-Comté,21,Côte-d'Or,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,10.6153
+1666,44,Grand-Est,54,Meurthe-et-Moselle,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1667,24,Centre-Val de Loire,45,Loiret,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,26.96
+1668,32,Hauts-de-France,59,Nord,400,Bio énergie,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,0.765
+1669,44,Grand-Est,88,Vosges,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],18.0,4.2139999999999995
+1670,32,Hauts-de-France,59,Nord,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],4.0,0.174
+1671,24,Centre-Val de Loire,36,Indre,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.78
+1672,75,Nouvelle Aquitaine,16,Charente,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1673,24,Centre-Val de Loire,37,Indre-et-Loire,400,Bio énergie,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.1
+1674,24,Centre-Val de Loire,45,Loiret,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.15
+1675,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.1639
+1676,27,Bourgogne-Franche-Comté,21,Côte-d'Or,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],8.0,1.485
+1677,44,Grand-Est,52,Haute-Marne,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,0.867
+1678,84,Auvergne-Rhône-Alpes,73,Savoie,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,9.2569
+1679,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,4.421
+1680,52,Pays de la Loire,44,Loire-Atlantique,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,5.0,11.974
+1681,76,Occitanie,32,Gers,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.25
+1682,28,Normandie,27,Eure,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,0.858
+1683,53,Bretagne,22,Côtes-d'Armor,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1684,28,Normandie,50,Manche,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],8.0,1.6880000000000002
+1685,75,Nouvelle Aquitaine,19,Corrèze,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,4.0,7.775
+1686,75,Nouvelle Aquitaine,23,Creuse,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,1.0
+1687,52,Pays de la Loire,44,Loire-Atlantique,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1688,44,Grand-Est,68,Haut-Rhin,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],1.0,0.24
+1689,52,Pays de la Loire,49,Maine-et-Loire,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1690,53,Bretagne,29,Finistère,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],5.0,0.441
+1691,52,Pays de la Loire,53,Mayenne,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],2.0,0.121
+1692,52,Pays de la Loire,53,Mayenne,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],6.0,1.41
+1693,52,Pays de la Loire,72,Sarthe,400,Bio énergie,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,9.44
+1694,52,Pays de la Loire,85,Vendée,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],5.0,0.444
+1695,52,Pays de la Loire,85,Vendée,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],9.0,1.6569999999999998
+1696,75,Nouvelle Aquitaine,19,Corrèze,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.1
+1697,75,Nouvelle Aquitaine,64,Pyrénées-Atlantiques,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.1
+1698,76,Occitanie,11,Aude,400,Bio énergie,1,Injection totale,2020-06-30,a-]0;36],,
+1699,76,Occitanie,31,Haute-Garonne,400,Bio énergie,1,Injection totale,2020-06-30,d-]250;...[,3.0,19.337
+1700,84,Auvergne-Rhône-Alpes,1,Ain,400,Bio énergie,1,Injection totale,2020-06-30,c-]100;250],4.0,0.809
+1701,84,Auvergne-Rhône-Alpes,15,Cantal,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.0625
+1702,84,Auvergne-Rhône-Alpes,63,Puy-de-Dôme,400,Bio énergie,2,Injection du surplus,2020-06-30,b-]36;100],1.0,0.075
+1703,84,Auvergne-Rhône-Alpes,69,Rhône,400,Bio énergie,1,Injection totale,2020-06-30,b-]36;100],1.0,0.075
+1704,24,Centre-Val de Loire,37,Indre-et-Loire,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,10.0,53.166000000000004
+1705,11,Île-de-France,75,Paris,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,3.0,5.511
+1706,27,Bourgogne-Franche-Comté,58,Nièvre,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,3.0,6.471
+1707,75,Nouvelle Aquitaine,17,Charente-Maritime,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,2.0,3.51
+1708,53,Bretagne,29,Finistère,500,Cogénération,2,Injection du surplus,2020-06-30,a-]0;36],,
+1709,52,Pays de la Loire,44,Loire-Atlantique,500,Cogénération,2,Injection du surplus,2020-06-30,a-]0;36],,
+1710,76,Occitanie,82,Tarn-et-Garonne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.86
+1711,27,Bourgogne-Franche-Comté,25,Doubs,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,4.0,11.043
+1712,32,Hauts-de-France,2,Aisne,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,4.0,11.395999999999999
+1713,28,Normandie,61,Orne,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1714,28,Normandie,76,Seine-Maritime,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1715,53,Bretagne,56,Morbihan,500,Cogénération,3,Autoconsommation sans injection,2020-06-30,d-]250;...[,1.0,1.6
+1716,32,Hauts-de-France,80,Somme,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,11.0,55.446000000000005
+1717,84,Auvergne-Rhône-Alpes,26,Drôme,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,5.0,10.958
+1718,44,Grand-Est,57,Moselle,500,Cogénération,1,Injection totale,2020-06-30,b-]36;100],1.0,0.048
+1719,53,Bretagne,35,Ille-et-Vilaine,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,14.0,60.872
+1720,76,Occitanie,30,Gard,500,Cogénération,1,Injection totale,2020-06-30,a-]0;36],,
+1721,84,Auvergne-Rhône-Alpes,38,Isère,500,Cogénération,1,Injection totale,2020-06-30,d-]250;...[,5.0,8.191
+1722,93,Provence-Alpes-Côte d'Azur,6,Alpes-Maritimes,500,Cogénération,1,Injection totale,2020-06-30,b-]36;100],1.0,0.069
+1723,11,Île-de-France,77,Seine-et-Marne,600,Autres,2,Injection du surplus,2020-06-30,a-]0;36],,
+1724,53,Bretagne,29,Finistère,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,4.0,28.058000000000003
+1725,27,Bourgogne-Franche-Comté,71,Saône-et-Loire,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+1726,27,Bourgogne-Franche-Comté,25,Doubs,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,3.0,16.06
+1727,44,Grand-Est,88,Vosges,600,Autres,1,Injection totale,2020-06-30,c-]100;250],1.0,0.195
+1728,75,Nouvelle Aquitaine,17,Charente-Maritime,600,Autres,2,Injection du surplus,2020-06-30,d-]250;...[,9.0,10.05
+1729,52,Pays de la Loire,53,Mayenne,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,7.756
+1730,52,Pays de la Loire,72,Sarthe,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,0.75
+1731,53,Bretagne,35,Ille-et-Vilaine,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
+1732,53,Bretagne,22,Côtes-d'Armor,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,3.0,12.724
+1733,75,Nouvelle Aquitaine,40,Landes,600,Autres,2,Injection du surplus,2020-06-30,d-]250;...[,1.0,6.0
+1734,75,Nouvelle Aquitaine,47,Lot-et-Garonne,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,4.99
+1735,84,Auvergne-Rhône-Alpes,1,Ain,600,Autres,1,Injection totale,2020-06-30,d-]250;...[,1.0,6.65
+1736,84,Auvergne-Rhône-Alpes,73,Savoie,600,Autres,1,Injection totale,2020-06-30,a-]0;36],,
