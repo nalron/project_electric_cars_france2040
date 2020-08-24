@@ -1,5 +1,5 @@
 # Projet : 2040 le cap des 100% de voitures électriques
-### Projet du parcours Data Analyst OpenClassrooms réalisé en partenariat avec l’ENSAE-ENSAI.
+### Projet du parcours Data Analyst OpenClassrooms en partenariat avec l’ENSAE-ENSAI.
 L'évolution du parc automobile français depuis 2010 prévisions sur les prochaines années. Un tour complet en trois volets: véhicules, stations de recharge, et distribution d'électricité.
 
 ![Illustration d'un station de recharge](p8_img/irve_illustration.png)
