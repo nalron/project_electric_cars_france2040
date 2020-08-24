@@ -5,7 +5,7 @@ L'évolution du parc automobile français depuis 2010 prévisions sur les procha
 ## Tableaux de bord
 Rendez-vous sur [Tableau Public](https://public.tableau.com/profile/nalron#!/vizhome/ElectricCarsFrance2040/Vuedensemble) pour l'accès aux tableaux de bord intéractifs.
 
-![](https://public.tableau.com/profile/nalron#!/vizhome/ElectricCarsFrance2040/Vuedensemble)
+![Public Tableau](p8_graphic/view_tableau.png)
 
 ## Préambule
 Pour ce projet, les données ont été manipulées en Python sur support Jupyter Notebook avec visualisation via Tableau Software.
