@@ -5,22 +5,23 @@ L'évolution du parc automobile français depuis 2010 prévisions sur les procha
 ## Tableaux de bord
 Rendez-vous sur [Tableau Public](https://public.tableau.com/profile/nalron#!/vizhome/ElectricCarsFrance2040/Vuedensemble) pour l'accès aux tableaux de bord intéractifs.
 
+![](https://public.tableau.com/profile/nalron#!/vizhome/ElectricCarsFrance2040/Vuedensemble)
+
 ## Préambule
-Pour ce projet, les données ont été manipulées en Python. Pratique des bases de la **statistique descriptive** (moyenne, médiane, variance, représentations graphiques, tests de corrélation, analyse bivariée, etc.).
+Pour ce projet, les données ont été manipulées en Python sur support Jupyter Notebook avec visualisation via Tableau Software.
 
 ### Les données
-- Données des immatriculations des véhicules : [statistiques.developpement-durable.gouv.fr](https://www.statistiques.developpement-durable.gouv.fr/donnees-sur-les-immatriculations-des-vehicules)
-- Tableau comparatif des voitures électriques : [fiches-auto.fr](http://www.fiches-auto.fr/articles-auto/electrique/s-852-comparatif-des-voitures-electriques.php)
-- Données des bornes de recharge pour véhicules électriques (IRVE) : [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques/)
-- Données des points de charge par typologie : [data.enedis.fr](https://data.enedis.fr/explore/dataset/nombre-de-points-de-charge-par-typologie/information/)
-- Parc des installations de production raccordées par departement : [data.enedis.fr](https://data.enedis.fr/explore/dataset/parc-des-installations-de-production-raccordees-par-departement/information/?disjunctive.type_injection)
-- Données en puissance sur la consommation et production par filière d'énergie : [rte-france.com](https://www.rte-france.com/fr/eco2mix/eco2mix-telechargement)
+ - Données des immatriculations des véhicules : [statistiques.developpement-durable.gouv.fr](https://www.statistiques.developpement-durable.gouv.fr/donnees-sur-les-immatriculations-des-vehicules)
+ - Tableau comparatif des voitures électriques : [fiches-auto.fr](http://www.fiches-auto.fr/articles-auto/electrique/s-852-comparatif-des-voitures-electriques.php)
+ - Données des bornes de recharge pour véhicules électriques (IRVE) : [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/fichier-consolide-des-bornes-de-recharge-pour-vehicules-electriques/)
+ - Données des points de charge par typologie : [data.enedis.fr](https://data.enedis.fr/explore/dataset/nombre-de-points-de-charge-par-typologie/information/)
+ - Parc des installations de production raccordées par departement : [data.enedis.fr](https://data.enedis.fr/explore/dataset/parc-des-installations-de-production-raccordees-par-departement/information/?disjunctive.type_injection)
+ - Données en puissance sur la consommation et production par filière d'énergie : [rte-france.com](https://www.rte-france.com/fr/eco2mix/eco2mix-telechargement)
 
 ### Compétences évaluées
- - Décrire un jeu de données par la statistique descriptive
- - Maîtriser les concepts statistiques fondamentaux
- - Nettoyer un jeu de données
-
+ - Réaliser un projet libre à caractère social (proposition d'un plan, d'une méthode, de données, …)
+ - Rédaction d'un rapport d'analyse statistique
+ - Communiquer ses résultats à l’aide de visualisations (Tableau software)
 
 ## Prérequis techniques
 Si vous n'avez jamais installé **Python**, alors autant installer directement la **distribution Anaconda**.
